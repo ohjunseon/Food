@@ -37,6 +37,14 @@ document.addEventListener('DOMContentLoaded', () => {
                         ${recipe.instructions.map(step => `<li>${step}</li>`).join('')}
                     </ol>
                 </div>
+                ${recipe.tips && recipe.tips.length > 0 ? `
+                <div class="section tips-section">
+                    <h3><i data-lucide="lightbulb" style="display:inline; width:20px; vertical-align:middle; color:#ffb700;"></i> 셰프의 팁</h3>
+                    <ul class="tips-list">
+                        ${recipe.tips.map(tip => `<li>${tip}</li>`).join('')}
+                    </ul>
+                </div>
+                ` : ''}
             </div>
              <div style="text-align: center; margin-top: 40px;">
                 <a href="index.html#recipes" class="btn btn-outline">모든 레시피 보기</a>
