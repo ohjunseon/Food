@@ -7,7 +7,7 @@ const mexicanRecipes = [
         mood: ["adventure", "energetic"],
         time: "30분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/91/800/600",
         description: "또띠아에 다양한 속재료를 넣어 먹는 멕시코의 가장 상징적인 요리입니다.",
         ingredients: ["또띠아", "다진 쇠고기 또는 닭고기", "살사", "고수", "양파", "라임"],
         instructions: ["고기를 양념하여 볶습니다.", "또띠아를 데웁니다.", "데운 또띠아에 고기와 살사, 다진 양파, 고수를 올리고 라임을 뿌려 먹습니다."]
@@ -20,7 +20,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "45분",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1643240833156-258d4e3c494f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/92/800/600",
         description: "속을 채운 옥수수 또띠아를 말아 소스를 뿌리고 치즈를 얹어 구워낸 요리입니다.",
         ingredients: ["옥수수 또띠아", "닭고기", "엔칠라다 소스", "치즈", "양파"],
         instructions: ["닭고기를 삶아 찢습니다.", "또띠아에 닭고기를 넣고 말아 오븐 용기에 담습니다.", "엔칠라다 소스를 붓고 치즈를 뿌려 오븐에 굽습니다."]
@@ -33,7 +33,7 @@ const mexicanRecipes = [
         mood: ["healthy"],
         time: "15분",
         calories: "250 kcal",
-        image: "https://images.unsplash.com/photo-1593454238981-d8200f493afd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/93/800/600",
         description: "아보카도를 으깨어 양파, 토마토, 고수, 라임즙 등을 섞어 만든 딥입니다. 나초 칩과 함께 먹습니다.",
         ingredients: ["아보카도", "양파", "토마토", "고수", "할라피뇨", "라임즙", "소금"],
         instructions: ["아보카도를 으깨줍니다.", "나머지 재료를 잘게 다져 아보카도와 섞습니다.", "소금과 라임즙으로 간을 맞춥니다."]
@@ -46,7 +46,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "25분",
         calories: "700 kcal",
-        image: "https://images.unsplash.com/photo-1562013898-5a2e2d5d8525?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/94/800/600",
         description: "큰 밀가루 또띠아에 밥, 콩, 고기, 치즈, 살사 등 다양한 재료를 넣고 감싼 푸짐한 식사입니다.",
         ingredients: ["밀가루 또띠아", "밥", "검은콩", "다진 쇠고기", "치즈", "살사", "사워 크림"],
         instructions: ["또띠아를 데웁니다.", "가운데에 모든 재료를 올립니다.", "양옆을 접고 아래부터 단단하게 말아줍니다."]
@@ -59,7 +59,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "15분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1618198579774-3253f7f02b3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/95/800/600",
         description: "또띠아에 치즈와 다른 재료들을 넣고 반으로 접어 치즈가 녹을 때까지 구운 요리입니다.",
         ingredients: ["또띠아", "모차렐라 또는 몬테레이 잭 치즈", "닭고기 또는 버섯", "양파", "피망"],
         instructions: ["팬에 또띠아를 올리고 반쪽에 치즈와 속재료를 깝니다.", "반으로 접어 앞뒤로 노릇하게 굽습니다.", "살사나 사워 크림과 함께 냅니다."]
@@ -72,7 +72,7 @@ const mexicanRecipes = [
         mood: ["comfort", "energetic"],
         time: "20분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1632770283023-f222fa6b2847?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/96/800/600",
         description: "튀긴 또띠아 조각을 살사 소스에 적셔 닭고기, 치즈, 계란 등을 얹어 먹는 멕시코의 아침 식사입니다.",
         ingredients: ["나초 칩 또는 튀긴 또띠아", "살사 로하 또는 살사 베르데", "페타 치즈", "사워 크림", "계란 프라이"],
         instructions: ["팬에 살사를 데우고 또띠아 칩을 넣어 버무립니다.", "접시에 담고 치즈, 사워 크림, 계란 프라이를 올립니다."]
@@ -85,7 +85,7 @@ const mexicanRecipes = [
         mood: ["comfort", "healthy"],
         time: "3시간",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1596422874218-a15d2a6a1663?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/97/800/600",
         description: "호미니(옥수수)와 돼지고기를 넣고 푹 끓인 멕시코의 전통적인 수프입니다. 축제 때 즐겨 먹습니다.",
         ingredients: ["호미니", "돼지고기", "건고추", "마늘", "양파", "양배추", "무", "라임"],
         instructions: ["돼지고기와 호미니를 부드러워질 때까지 끓입니다.", "건고추와 마늘, 양파를 갈아 만든 소스를 넣고 더 끓입니다.", "먹을 때 잘게 썬 양배추, 무, 라임 등을 곁들입니다."]
@@ -98,7 +98,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "2시간",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1603892461159-8733b8a4a5d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/98/800/600",
         description: "옥수수 반죽(마사)에 고기나 치즈 등의 소를 넣고 옥수수 껍질에 싸서 찐 음식입니다.",
         ingredients: ["마사 하리나(옥수수 가루)", "라드 또는 식물성 쇼트닝", "닭고기 육수", "닭고기 또는 돼지고기 소", "옥수수 껍질"],
         instructions: ["마사 반죽을 만듭니다.", "물에 불린 옥수수 껍질에 반죽을 펴고 소를 올린 후 감쌉니다.", "찜통에 세워서 1-2시간 동안 찝니다."]
@@ -111,7 +111,7 @@ const mexicanRecipes = [
         mood: ["comfort", "energetic"],
         time: "4시간",
         calories: "650 kcal",
-        image: "https://images.unsplash.com/photo-1598866594240-a02082152868?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/99/800/600",
         description: "돼지고기를 라드나 기름에 넣고 몇 시간 동안 천천히 익혀 매우 부드럽고 촉촉하게 만든 요리입니다. 타코나 부리토에 넣어 먹습니다.",
         ingredients: ["돼지고기 어깨살", "라드", "오렌지", "우유", "계피 스틱", "월계수잎"],
         instructions: ["큰 냄비에 모든 재료를 넣고 고기가 부드러워질 때까지 3-4시간 끓입니다.", "고기를 건져 잘게 찢은 후, 팬에 살짝 구워 겉을 바삭하게 만듭니다."]
@@ -124,7 +124,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "2시간",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/100/800/600",
         description: "다양한 종류의 고추, 향신료, 견과류, 때로는 초콜릿까지 수십 가지 재료를 넣어 만든 복합적이고 풍부한 맛의 소스입니다. 주로 닭고기나 칠면조 요리에 곁들입니다.",
         ingredients: ["건고추 (안초, 파시야 등)", "토마토", "양파", "마늘", "견과류 (아몬드, 땅콩)", "다크 초콜릿", "다양한 향신료"],
         instructions: ["고추의 씨를 제거하고 굽거나 튀깁니다.", "모든 재료를 볶거나 구운 후 부드러워질 때까지 함께 끓입니다.", "블렌더에 곱게 갈아 소스를 완성합니다."]
@@ -137,7 +137,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "15분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1571877275938-202b04c8a245?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/101/800/600",
         description: "튀기거나 살짝 구운 또띠아 위에 계란 프라이를 올리고 살사 소스를 얹어 먹는 멕시코의 아침 식사입니다.",
         ingredients: ["옥수수 또띠아", "달걀", "살사", "리프라이드 빈", "페타 치즈"],
         instructions: ["또띠아를 기름에 살짝 튀깁니다.", "계란 프라이를 만듭니다.", "또띠아 위에 계란 프라이를 올리고 따뜻한 살사를 붓습니다. 리프라이드 빈과 치즈를 곁들입니다."]
@@ -150,7 +150,7 @@ const mexicanRecipes = [
         mood: ["healthy", "adventure"],
         time: "20분 (재우는 시간 제외)",
         calories: "300 kcal",
-        image: "https://images.unsplash.com/photo-1505253668822-42074d58a7c6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/102/800/600",
         description: "신선한 생선이나 해산물을 라임즙에 재워 '익힌' 후 양파, 토마토, 고수 등과 섞어 차갑게 먹는 요리입니다.",
         ingredients: ["흰살 생선", "라임", "양파", "토마토", "고수", "할라피뇨"],
         instructions: ["생선을 깍둑썰기하여 라임즙에 30분 이상 재웁니다.", "생선이 불투명해지면 물기를 빼고 다진 채소와 섞습니다.", "나초 칩이나 토스타다와 함께 먹습니다."]
@@ -163,7 +163,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "30분",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1621996346565-e326e2c21252?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/103/800/600",
         description: "구운 고기(주로 쇠고기나 닭고기)와 볶은 피망, 양파를 또띠아에 싸서 먹는 요리입니다.",
         ingredients: ["쇠고기 또는 닭고기", "피망", "양파", "파히타 시즈닝", "밀가루 또띠아", "살사", "과카몰리"],
         instructions: ["고기와 채소를 길게 썰어 시즈닝과 함께 볶습니다.", "따뜻한 또띠아에 볶은 고기와 채소를 싸서 먹습니다."]
@@ -176,7 +176,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "25분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1627992945248-facff36a4a68?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/104/800/600",
         description: "닭고기나 쇠고기로 속을 채운 또띠아를 길게 말아 바삭하게 튀겨낸 요리입니다. '작은 플루트'라는 뜻입니다.",
         ingredients: ["옥수수 또띠아", "찢은 닭고기", "기름", "사워 크림", "살사", "페타 치즈"],
         instructions: ["따뜻한 또띠아에 닭고기를 넣고 단단하게 말아줍니다.", "기름에 바삭하게 튀깁니다.", "사워 크림, 살사, 치즈를 뿌려 먹습니다."]
@@ -189,7 +189,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "10분",
         calories: "50 kcal",
-        image: "https://images.unsplash.com/photo-1513432761821-2248c1a63c0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/105/800/600",
         description: "토마토, 양파, 고추, 고수를 기본으로 하는 멕시코 요리의 필수적인 소스입니다. 다양한 종류가 있습니다.",
         ingredients: ["토마토", "양파", "할라피뇨", "고수", "라임즙", "소금"],
         instructions: ["모든 재료를 잘게 다집니다.", "한데 섞고 소금과 라임즙으로 간을 맞춥니다.", "나초 칩이나 타코와 함께 즐깁니다."]
@@ -202,7 +202,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "1시간 30분",
         calories: "700 kcal",
-        image: "https://images.unsplash.com/photo-1521117184282-5c2496739d2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/106/800/600",
         description: "다진 고기와 과일로 속을 채운 포블라노 고추에 호두 크림 소스를 붓고 석류와 파슬리로 장식한, 멕시코 국기의 색을 상징하는 요리입니다.",
         ingredients: ["포블라노 고추", "다진 돼지고기", "사과", "복숭아", "견과류", "호두", "크림", "석류"],
         instructions: ["고추를 구워 껍질을 벗깁니다.", "다진 고기와 과일, 견과류를 볶아 속을 만듭니다.", "고추에 속을 채우고, 간 호두와 크림으로 만든 소스를 붓습니다.", "석류와 파슬리로 장식합니다."]
@@ -215,7 +215,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "4시간 이상",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1627042599222-b957688224d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/107/800/600",
         description: "아치오테와 감귤류 즙에 재운 돼지고기를 바나나 잎에 싸서 땅속에서 천천히 구워낸 유카탄 반도의 전통 요리입니다.",
         ingredients: ["돼지고기 어깨살", "아치오테 페이스트", "오렌지 즙", "라임 즙", "바나나 잎"],
         instructions: ["돼지고기를 아치오테 양념에 하룻밤 재웁니다.", "바나나 잎으로 고기를 감쌉니다.", "낮은 온도의 오븐에서 몇 시간 동안 또는 고기가 매우 부드러워질 때까지 굽습니다."]
@@ -228,7 +228,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "40분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1547592180-81f7c52c2a4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/108/800/600",
         description: "닭고기 육수에 토마토와 고추로 맛을 내고, 바삭하게 튀긴 또띠아 조각과 아보카도, 치즈, 사워 크림을 곁들여 먹는 수프입니다.",
         ingredients: ["닭고기 육수", "토마토", "건고추", "튀긴 또띠아 스트립", "아보카도", "페타 치즈", "사워 크림"],
         instructions: ["육수에 토마토와 고추를 넣고 끓인 후 갈아줍니다.", "수프를 그릇에 담고 튀긴 또띠아와 아보카도, 치즈, 사워 크림을 얹어 먹습니다."]
@@ -241,7 +241,7 @@ const mexicanRecipes = [
         mood: ["comfort", "energetic"],
         time: "30분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1588665753194-c7a6b7a136a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/109/800/600",
         description: "두툼한 옥수수 반죽을 구워 반으로 가른 후, 그 안에 고기, 콩, 치즈 등 다양한 속재료를 채워 먹는 요리입니다. '통통한'이라는 뜻입니다.",
         ingredients: ["마사 하리나", "다진 쇠고기", "리프라이드 빈", "양상추", "살사", "치즈"],
         instructions: ["마사 반죽으로 두툼하고 동그란 패티를 만들어 굽습니다.", "구운 반죽을 식힌 후 옆을 잘라 주머니를 만듭니다.", "주머니 안에 속재료를 채워 넣습니다."]
@@ -254,7 +254,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "35분",
         calories: "420 kcal",
-        image: "https://images.unsplash.com/photo-1527182742299-e326e2c21252?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/110/800/600",
         description: "두툼한 옥수수 반죽의 가장자리를 꼬집어 올려 작은 그릇 모양으로 만든 후, 그 위에 콩, 고기, 살사 등을 얹어 먹는 요리입니다.",
         ingredients: ["마사 하리나", "리프라이드 빈", "초리소", "양상추", "사워 크림", "페타 치즈"],
         instructions: ["마사 반죽으로 작은 그릇 모양을 만들어 굽거나 튀깁니다.", "그 위에 리프라이드 빈을 바르고 초리소, 양상추, 크림, 치즈를 차례로 올립니다."]
@@ -267,7 +267,7 @@ const mexicanRecipes = [
         mood: ["healthy", "energetic"],
         time: "10분",
         calories: "30 kcal",
-        image: "https://images.unsplash.com/photo-1513432761821-2248c1a63c0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/111/800/600",
         description: "토마토, 양파, 고수, 할라피뇨를 잘게 썰어 라임즙과 섞은 신선한 살사입니다. 조리하지 않아 재료의 신선함이 살아있습니다.",
         ingredients: ["토마토", "양파", "고수", "할라피뇨", "라임즙", "소금"],
         instructions: ["모든 채소를 같은 크기로 잘게 썹니다.", "한데 모아 라임즙과 소금으로 간을 합니다."]
@@ -280,7 +280,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "25분",
         calories: "300 kcal",
-        image: "https://images.unsplash.com/photo-1588665753194-c7a6b7a136a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/112/800/600",
         description: "별 모양 깍지를 끼운 짤주머니로 반죽을 짜서 기름에 튀겨낸 후 설탕과 시나몬을 묻혀 먹는 디저트입니다.",
         ingredients: ["밀가루", "물", "버터", "설탕", "계피가루", "초콜릿 소스 (선택)"],
         instructions: ["물, 버터, 설탕을 끓이다가 밀가루를 넣고 한 덩어리로 만듭니다.", "반죽을 짤주머니에 넣어 기름에 길게 짜면서 튀깁니다.", "튀긴 추로스에 설탕과 계피가루를 묻혀 냅니다."]
@@ -293,7 +293,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "1시간 (식히는 시간 제외)",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1549903159-54b2d355a14a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/113/800/600",
         description: "연유, 무당연유, 생크림 세 가지 우유를 섞은 시럽에 푹 적신 매우 촉촉한 스펀지 케이크입니다.",
         ingredients: ["스펀지 케이크", "연유", "무당연유(에바포레이티드 밀크)", "생크림", "휘핑 크림"],
         instructions: ["스펀지 케이크를 구워 식힙니다.", "세 가지 우유를 섞어 시럽을 만듭니다.", "케이크에 구멍을 뚫고 우유 시럽을 부어 완전히 흡수되도록 합니다.", "위에 휘핑 크림을 올려 장식합니다."]
@@ -306,7 +306,7 @@ const mexicanRecipes = [
         mood: ["adventure", "energetic"],
         time: "20분",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1505253668822-42074d58a7c6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/114/800/600",
         description: "구운 옥수수에 마요네즈, 코티하 치즈, 칠리 파우더, 라임즙을 곁들여 먹는 멕시코의 인기 있는 길거리 음식입니다.",
         ingredients: ["옥수수", "마요네즈", "코티하 치즈 (또는 페타 치즈)", "칠리 파우더", "라임", "고수"],
         instructions: ["옥수수를 굽거나 삶습니다.", "뜨거운 옥수수에 마요네즈를 바릅니다.", "치즈 가루를 뿌리고 칠리 파우더와 라임즙을 뿌립니다."]
@@ -319,7 +319,7 @@ const mexicanRecipes = [
         mood: ["adventure", "comfort"],
         time: "4시간",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1618198579774-3253f7f02b3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/115/800/600",
         description: "고추와 향신료를 넣고 오래 끓인 매콤한 고기 스튜(비리아)를 넣은 타코입니다. 타코를 스튜 국물에 적셔 구워내는 것이 특징입니다.",
         ingredients: ["쇠고기 또는 염소고기", "건고추", "토마토", "향신료", "옥수수 또띠아", "모차렐라 치즈", "양파", "고수"],
         instructions: ["고기를 향신료와 함께 푹 끓여 비리아 스튜를 만듭니다.", "또띠아를 스튜의 기름에 적셔 팬에 올립니다.", "치즈와 찢은 고기를 올리고 반으로 접어 굽습니다.", "남은 스튜 국물과 함께 냅니다."]
@@ -332,7 +332,7 @@ const mexicanRecipes = [
         mood: ["adventure", "healthy"],
         time: "15분",
         calories: "280 kcal",
-        image: "https://images.unsplash.com/photo-1593454238981-d8200f493afd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/116/800/600",
         description: "새우를 라임즙, 칠리, 고수, 양파를 갈아 만든 매콤한 소스에 재워 먹는 요리입니다. 세비체와 비슷하지만 더 맵고 재우는 시간이 짧습니다.",
         ingredients: ["새우", "라임", "세라노 또는 할라피뇨 고추", "고수", "적양파", "오이"],
         instructions: ["새우를 나비 모양으로 손질합니다.", "라임, 고추, 고수를 갈아 소스를 만듭니다.", "새우 위에 소스를 붓고 얇게 썬 양파와 오이를 얹어 바로 먹습니다."]
@@ -345,7 +345,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "3시간",
         calories: "800 kcal",
-        image: "https://images.unsplash.com/photo-1643240833156-258d4e3c494f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/117/800/600",
         description: "돼지 정강이 부위를 다양한 향신료와 함께 부드러워질 때까지 오랫동안 끓이거나 구워낸 요리입니다.",
         ingredients: ["돼지 정강이(차모로)", "건고추", "마늘", "오렌지 즙", "향신료(커민, 오레가노)"],
         instructions: ["돼지 정강이를 양념에 재웁니다.", "냄비나 오븐에서 고기가 뼈에서 쉽게 분리될 정도로 부드러워질 때까지 몇 시간 동안 조리합니다.", "타코나 또띠아와 함께 먹습니다."]
@@ -358,7 +358,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "25분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1562013898-5a2e2d5d8525?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/118/800/600",
         description: "새우를 매우 매운 고추 소스에 볶아낸 요리입니다. '악마의 새우'라는 뜻을 가지고 있습니다.",
         ingredients: ["새우", "치폴레 고추 또는 다른 매운 고추", "토마토", "양파", "마늘", "버터"],
         instructions: ["고추와 토마토, 마늘 등을 갈아 매운 소스를 만듭니다.", "팬에 버터를 녹이고 새우를 볶습니다.", "소스를 붓고 걸쭉해질 때까지 끓입니다.", "밥이나 또띠아와 함께 냅니다."]
@@ -371,7 +371,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "15분 (불리는 시간 제외)",
         calories: "200 kcal",
-        image: "https://images.unsplash.com/photo-1574894709920-11b297c72e31?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/119/800/600",
         description: "쌀을 물에 불려 갈아서 설탕과 계피를 넣어 만든 시원하고 달콤한 멕시코의 전통 음료입니다.",
         ingredients: ["쌀", "물", "계피 스틱", "설탕", "바닐라 익스트랙"],
         instructions: ["쌀과 계피를 물에 몇 시간 또는 하룻밤 불립니다.", "불린 쌀과 계피를 물과 함께 블렌더에 곱게 갑니다.", "체에 걸러 액체만 받은 후 설탕과 바닐라를 넣어 섞습니다.", "차갑게 보관하여 얼음과 함께 마십니다."]
@@ -384,7 +384,7 @@ const mexicanRecipes = [
         mood: ["comfort", "healthy"],
         time: "1시간",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1613430098991-9c6031575a7a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/120/800/600",
         description: "닭고기 육수를 베이스로 라임의 향긋함이 특징인 유카탄 지방의 수프입니다. 튀긴 또띠아 조각을 곁들입니다.",
         ingredients: ["닭고기", "닭고기 육수", "토마토", "양파", "라임", "하바네로 고추", "튀긴 또띠아 스트립"],
         instructions: ["닭고기를 삶아 육수를 내고 살은 찢어둡니다.", "육수에 토마토, 양파 등을 넣고 끓여 수프를 만듭니다.", "그릇에 찢은 닭고기와 수프를 담고 라임즙을 듬뿍 뿌린 후, 튀긴 또띠아를 얹어 냅니다."]

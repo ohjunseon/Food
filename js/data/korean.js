@@ -7,7 +7,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "40분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1576893389245-2e6931409f9a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/1/800/600",
         description: "잘 익은 김치와 돼지고기를 넣고 푹 끓인 한국인의 소울 푸드.",
         ingredients: ["신김치 1/4포기", "돼지고기 목살 200g", "두부 1/2모", "대파", "청양고추", "고춧가루"],
         instructions: ["돼지고기를 냄비에 볶다가 김치를 넣어 함께 볶습니다.", "물을 붓고 김치가 무를 때까지 푹 끓입니다.", "두부와 대파, 고추를 넣고 한소끔 더 끓여냅니다."]
@@ -20,7 +20,7 @@ const koreanRecipes = [
         mood: ["healthy", "energetic"],
         time: "30분",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1596044239822-c743c9455b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/2/800/600",
         description: "다채로운 나물과 고추장 양념이 어우러진 균형 잡힌 한 그릇.",
         ingredients: ["밥 1공기", "콩나물", "시금치", "당근", "고사리", "다진 소고기", "달걀", "고추장", "참기름"],
         instructions: ["각종 나물은 데쳐서 양념에 무칩니다.", "소고기는 불고기 양념으로 볶습니다.", "그릇에 밥을 담고 나물과 고기를 예쁘게 돌려 담습니다.", "가운데 달걀 프라이를 올리고 고추장을 곁들입니다."]
@@ -33,7 +33,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "30분 (재우는 시간 제외)",
         calories: "480 kcal",
-        image: "https://images.unsplash.com/photo-1628345115252-73b395b4a299?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/3/800/600",
         description: "달콤 짭짤한 양념에 재운 소고기를 볶아낸 남녀노소 인기 메뉴.",
         ingredients: ["불고기용 소고기 600g", "양파 1개", "대파", "당근", "간장", "설탕", "다진 마늘", "참기름"],
         instructions: ["소고기에 갖은 양념을 넣어 30분 이상 재웁니다.", "달군 팬에 고기를 볶습니다.", "고기가 반쯤 익으면 채소를 넣어 같이 볶아 완성합니다."]
@@ -46,7 +46,7 @@ const koreanRecipes = [
         mood: ["comfort", "energetic"],
         time: "45분",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1604112555433-4563b715544a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/4/800/600",
         description: "쫄깃한 당면과 다양한 채소를 볶아 버무린 잔치 음식.",
         ingredients: ["당면 200g", "시금치", "당근", "양파", "표고버섯", "소고기", "간장", "설탕", "참기름"],
         instructions: ["당면을 삶아 찬물에 헹굽니다.", "각 채소와 고기를 따로 볶습니다.", "큰 볼에 당면과 볶은 재료를 넣고 양념장에 버무립니다."]
@@ -59,7 +59,7 @@ const koreanRecipes = [
         mood: ["adventure", "comfort"],
         time: "20분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1615742339387-c119a7751b3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/5/800/600",
         description: "매콤달콤한 고추장 소스에 쫄깃한 떡과 어묵의 조화.",
         ingredients: ["떡볶이 떡 300g", "사각 어묵 2장", "대파", "고추장", "고춧가루", "설탕", "물엿"],
         instructions: ["육수에 양념장을 풀고 끓입니다.", "떡과 어묵을 넣고 중약불에서 졸입니다.", "대파를 넣고 국물이 걸쭉해질 때까지 끓입니다."]
@@ -72,7 +72,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "1시간 30분",
         calories: "700 kcal",
-        image: "https://images.unsplash.com/photo-1598214886392-aa3821783453?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/6/800/600",
         description: "부드러운 소갈비에 단짠 양념이 배어든 최고의 밥도둑.",
         ingredients: ["소갈비 1kg", "무", "당근", "표고버섯", "밤", "간장", "배즙", "다진 마늘"],
         instructions: ["갈비는 핏물을 빼고 한 번 데쳐냅니다.", "양념장과 물을 붓고 40분 이상 끓입니다.", "채소를 넣고 국물이 자작해질 때까지 졸입니다."]
@@ -85,7 +85,7 @@ const koreanRecipes = [
         mood: ["healthy", "energetic"],
         time: "1시간",
         calories: "650 kcal",
-        image: "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/7/800/600",
         description: "여름철 원기 회복을 위한 진한 국물의 닭 요리.",
         ingredients: ["생닭 1마리", "인삼 1뿌리", "대추", "마늘", "찹쌀", "각종 한약재"],
         instructions: ["닭 뱃속에 불린 찹쌀과 마늘, 대추를 넣습니다.", "냄비에 닭과 재료, 물을 넣고 1시간 푹 끓입니다.", "소금과 후추로 간을 하여 먹습니다."]
@@ -98,7 +98,7 @@ const koreanRecipes = [
         mood: ["comfort", "healthy"],
         time: "25분",
         calories: "300 kcal",
-        image: "https://images.unsplash.com/photo-1618210967798-1a5a0c3a6e3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/8/800/600",
         description: "구수한 된장 국물에 두부와 호박이 들어간 가정식 백반의 정석.",
         ingredients: ["된장 2큰술", "애호박", "두부", "양파", "버섯", "멸치 육수", "청양고추"],
         instructions: ["육수에 된장을 풉니다.", "단단한 채소부터 넣고 끓입니다.", "두부와 버섯, 고추를 넣고 한소끔 끓여냅니다."]
@@ -111,7 +111,7 @@ const koreanRecipes = [
         mood: ["energetic", "adventure"],
         time: "40분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1623393523429-2152a420b922?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/9/800/600",
         description: "다양한 재료를 밥과 김으로 말아낸 간편하고 든든한 한 끼.",
         ingredients: ["김밥김", "밥", "단무지", "햄", "달걀 지단", "시금치", "당근", "참기름"],
         instructions: ["밥에 참기름과 소금으로 밑간을 합니다.", "속재료를 길게 준비하고 볶습니다.", "김 위에 밥을 펴고 재료를 올려 단단하게 맙니다."]
@@ -124,7 +124,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "20분",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1542010515-d70f305a415c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/10/800/600",
         description: "부드러운 순두부와 얼큰한 국물이 일품인 찌개.",
         ingredients: ["순두부 1봉", "바지락", "달걀 1개", "대파", "고추기름", "다진 마늘"],
         instructions: ["뚝배기에 고추기름을 두르고 파와 마늘을 볶습니다.", "해감된 바지락과 물을 넣고 끓입니다.", "순두부를 넣고 끓이다가 마지막에 달걀을 넣습니다."]
@@ -137,7 +137,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "1시간",
         calories: "750 kcal",
-        image: "https://images.unsplash.com/photo-1614532508873-165b4f2c9d74?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/11/800/600",
         description: "부드럽게 삶아낸 돼지고기를 김치와 쌈에 싸 먹는 요리.",
         ingredients: ["돼지고기 수육용(삼겹/목살) 1kg", "된장", "통마늘", "대파", "통후추", "월계수잎"],
         instructions: ["물에 향신 채소와 된장을 풀고 끓입니다.", "고기를 넣고 40분~1시간 삶습니다.", "먹기 좋은 크기로 썰어 쌈채소와 곁들입니다."]
@@ -150,7 +150,7 @@ const koreanRecipes = [
         mood: ["adventure", "energetic"],
         time: "40분",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1604112555433-4563b715544a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/12/800/600",
         description: "매콤한 양념에 닭고기와 양배추, 고구마를 볶아 먹는 철판 요리.",
         ingredients: ["닭다리살 500g", "양배추", "고구마", "떡", "깻잎", "고추장 양념"],
         instructions: ["닭고기와 채소를 적당한 크기로 썹니다.", "팬에 기름을 두르고 재료와 양념장을 넣고 볶습니다.", "재료가 다 익으면 깻잎을 넣어 마무리합니다."]
@@ -163,7 +163,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1568096894495-a226a25b1297?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/13/800/600",
         description: "비 오는 날 생각나는 오징어와 새우가 듬뿍 들어간 파전.",
         ingredients: ["쪽파 1단", "오징어", "새우", "부침가루", "달걀", "식용유"],
         instructions: ["부침 반죽을 만듭니다.", "팬에 반죽을 얇게 펴고 쪽파를 올립니다.", "해물을 올리고 달걀물을 부어 노릇하게 굽습니다."]
@@ -176,7 +176,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "700 kcal",
-        image: "https://images.unsplash.com/photo-1547496523-23348122391b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/14/800/600",
         description: "고소한 춘장에 돼지고기와 양파를 볶아 면에 비벼 먹는 중식 요리.",
         ingredients: ["중화면", "춘장", "돼지고기", "양파", "양배추", "설탕", "전분물"],
         instructions: ["춘장을 기름에 볶습니다.", "고기와 채소를 볶다가 춘장을 섞습니다.", "물을 붓고 끓이다 전분물로 농도를 맞춥니다.", "삶은 면 위에 소스를 붓습니다."]
@@ -189,7 +189,7 @@ const koreanRecipes = [
         mood: ["adventure", "energetic"],
         time: "40분",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1563245362-ec42f44a8b70?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/15/800/600",
         description: "각종 해산물과 채소로 국물을 낸 얼큰하고 시원한 국물 요리.",
         ingredients: ["중화면", "오징어", "홍합", "새우", "배추", "양파", "고춧가루", "마늘"],
         instructions: ["파기름을 내고 고춧가루를 볶아 고추기름을 만듭니다.", "해물과 채소를 볶다가 육수를 붓고 끓입니다.", "간을 맞추고 면을 삶아 함께 냅니다."]
@@ -202,7 +202,7 @@ const koreanRecipes = [
         mood: ["comfort", "healthy"],
         time: "20분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1594911762332-9457a4143890?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/16/800/600",
         description: "진한 사골 육수에 왕만두를 넣어 끓인 든든한 한 그릇.",
         ingredients: ["왕만두 5개", "사골 육수", "달걀", "대파", "김가루", "소금", "후추"],
         instructions: ["사골 육수를 끓이다가 만두를 넣습니다.", "만두가 익으면 달걀물을 풀고 대파를 넣습니다.", "그릇에 담고 김가루를 뿌립니다."]
@@ -215,7 +215,7 @@ const koreanRecipes = [
         mood: ["healthy"],
         time: "20분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1626081498877-5a021d604b6b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/17/800/600",
         description: "진하게 갈아 만든 콩물에 국수를 말아 먹는 여름 별미.",
         ingredients: ["소면", "콩물 (또는 두부+두유)", "오이", "방울토마토", "검은깨", "소금"],
         instructions: ["소면을 삶아 찬물에 헹굽니다.", "그릇에 면을 담고 차가운 콩물을 붓습니다.", "오이채와 토마토를 고명으로 올립니다."]
@@ -228,7 +228,7 @@ const koreanRecipes = [
         mood: ["healthy", "comfort"],
         time: "5시간 이상",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1594911762332-9457a4143890?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/18/800/600",
         description: "소뼈를 오랫동안 고아 만든 뽀얗고 담백한 보양식.",
         ingredients: ["사골 국물", "양지머리 수육", "소면", "대파", "소금", "후추"],
         instructions: ["그릇에 삶은 소면과 밥, 수육을 담습니다.", "뜨거운 사골 국물을 붓습니다 (토렴).", "송송 썬 대파를 듬뿍 얹어 냅니다."]
@@ -241,7 +241,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "2시간",
         calories: "700 kcal",
-        image: "https://images.unsplash.com/photo-1628345115252-73b395b4a299?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/19/800/600",
         description: "돼지 등뼈와 우거지, 감자를 넣고 들깨가루로 맛을 낸 진한 탕.",
         ingredients: ["돼지 등뼈 1kg", "감자", "우거지", "깻잎", "들깨가루", "된장", "고춧가루"],
         instructions: ["핏물을 뺀 등뼈를 한 번 삶아냅니다.", "양념장과 우거지를 넣고 푹 끓입니다.", "감자를 넣고 익을 때까지 끓이다가 깻잎과 들깨가루를 넣습니다."]
@@ -254,7 +254,7 @@ const koreanRecipes = [
         mood: ["healthy", "comfort"],
         time: "30분",
         calories: "250 kcal",
-        image: "https://images.unsplash.com/photo-1596044239822-c743c9455b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/20/800/600",
         description: "늙은 호박과 찹쌀을 갈아 쑨 달콤하고 부드러운 죽.",
         ingredients: ["늙은 호박", "찹쌀가루", "설탕", "소금", "팥 (선택사항)"],
         instructions: ["호박은 껍질을 벗겨 삶은 뒤 으깹니다.", "으깬 호박에 물을 붓고 끓이다 찹쌀물로 농도를 맞춥니다.", "설탕과 소금으로 간을 합니다."]
@@ -267,7 +267,7 @@ const koreanRecipes = [
         mood: ["adventure", "comfort"],
         time: "50분",
         calories: "650 kcal",
-        image: "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/21/800/600",
         description: "짭짤하고 달콤한 간장 소스에 닭고기, 채소, 당면을 함께 졸여낸 요리.",
         ingredients: ["닭 1마리", "감자", "당근", "건고추", "당면", "간장", "설탕", "다진 마늘"],
         instructions: ["닭을 한 번 데쳐 불순물을 제거합니다.", "물과 양념장, 닭, 채소를 넣고 끓입니다.", "닭이 익으면 불린 당면을 넣고 국물이 자작해질 때까지 졸입니다."]
@@ -280,7 +280,7 @@ const koreanRecipes = [
         mood: ["adventure", "energetic"],
         time: "15분",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1516223594209-60aa51323c2a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/22/800/600",
         description: "신선한 소고기 우둔살을 얇게 채 썰어 배와 함께 양념에 무쳐 먹는 음식.",
         ingredients: ["소고기 우둔살 300g", "배 1/2개", "달걀 노른자", "간장", "설탕", "참기름", "다진 마늘"],
         instructions: ["소고기는 핏물을 제거하고 얇게 채 썹니다.", "배도 같은 길이로 채 썹니다.", "양념장 재료를 섞어 소고기와 가볍게 버무립니다.", "배와 함께 접시에 담고 달걀 노른자를 올립니다."]
@@ -293,7 +293,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "30분",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1576893389245-2e6931409f9a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/23/800/600",
         description: "김치와 함께 햄, 소시지, 라면 등을 넣고 얼큰하게 끓인 퓨전 찌개.",
         ingredients: ["햄", "소시지", "김치", "두부", "베이크드 빈스", "라면사리", "치즈", "고추장 양념"],
         instructions: ["전골 냄비에 재료를 보기 좋게 돌려 담습니다.", "양념장과 육수를 넣고 끓입니다.", "재료가 익으면 라면사리와 치즈를 넣고 한소끔 더 끓여 완성합니다."]
@@ -306,7 +306,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "25분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1542010515-d70f305a415c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/24/800/600",
         description: "각종 해물과 부드러운 순두부가 어우러진 얼큰한 찌개.",
         ingredients: ["순두부 1봉", "새우", "오징어", "바지락", "달걀 1개", "고추기름"],
         instructions: ["뚝배기에 고추기름을 두르고 해물을 볶습니다.", "물을 붓고 끓으면 순두부와 양념을 넣습니다.", "마지막에 달걀을 깨 넣고 파를 뿌려냅니다."]
@@ -319,7 +319,7 @@ const koreanRecipes = [
         mood: ["comfort", "energetic"],
         time: "50분",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1604112555433-4563b715544a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/25/800/600",
         description: "매콤한 양념에 닭고기와 감자, 당근을 넣고 졸여낸 밥도둑 메뉴.",
         ingredients: ["닭 1마리", "감자 2개", "당근 1개", "양파 1개", "고추장", "고춧가루", "간장"],
         instructions: ["닭은 먹기 좋게 토막내어 한번 데칩니다.", "냄비에 닭과 채소, 양념장을 넣고 물을 부어 끓입니다.", "국물이 졸아들고 닭이 푹 익을 때까지 끓입니다."]
@@ -332,7 +332,7 @@ const koreanRecipes = [
         mood: ["adventure"],
         time: "3일 (숙성 시간 포함)",
         calories: "300 kcal",
-        image: "https://images.unsplash.com/photo-1628345115252-73b395b4a299?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/26/800/600",
         description: "신선한 꽃게를 달인 간장에 숙성시켜 만든 최고의 밥도둑.",
         ingredients: ["꽃게 1kg", "간장", "설탕", "물엿", "생강", "마늘", "사과"],
         instructions: ["게를 깨끗이 손질합니다.", "간장 양념을 끓여 식힙니다.", "용기에 게를 담고 식힌 간장을 부어 3일간 냉장 숙성합니다."]
@@ -345,7 +345,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "40분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1596044239822-c743c9455b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/27/800/600",
         description: "멸치 육수에 얇게 뜬 밀가루 반죽과 감자를 넣고 끓인 따뜻한 국물 요리.",
         ingredients: ["밀가루", "감자", "애호박", "멸치 육수", "국간장"],
         instructions: ["밀가루로 반죽을 만들어 숙성시킵니다.", "멸치 육수에 감자를 넣고 끓입니다.", "숙성된 반죽을 얇게 떼어 넣고 호박과 함께 끓여냅니다."]
@@ -358,7 +358,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "35분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1618210967798-1a5a0c3a6e3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/28/800/600",
         description: "진한 국물에 직접 민 칼국수 면을 넣고 끓여낸 든든한 한 끼.",
         ingredients: ["밀가루", "애호박", "바지락", "국간장", "다진 마늘"],
         instructions: ["밀가루를 반죽하여 얇게 밀고 썰어 면을 준비합니다.", "바지락으로 육수를 냅니다.", "육수에 면과 애호박을 넣고 끓여냅니다."]
@@ -371,7 +371,7 @@ const koreanRecipes = [
         mood: ["adventure", "energetic"],
         time: "20분",
         calories: "380 kcal",
-        image: "https://images.unsplash.com/photo-1598214886392-aa3821783453?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/29/800/600",
         description: "매콤한 양념에 쫄깃한 오징어와 아삭한 채소를 함께 볶아낸 요리.",
         ingredients: ["오징어 2마리", "양파", "양배추", "고추장", "고춧가루", "설탕"],
         instructions: ["오징어와 채소를 먹기 좋게 손질합니다.", "팬에 기름을 두르고 채소를 먼저 볶습니다.", "오징어와 양념장을 넣고 센 불에서 빠르게 볶아냅니다."]
@@ -384,7 +384,7 @@ const koreanRecipes = [
         mood: ["energetic"],
         time: "25분",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1615742339387-c119a7751b3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/30/800/600",
         description: "돼지고기 앞다리살을 매콤한 고추장 양념에 재워 볶아낸 대중적인 한식.",
         ingredients: ["돼지고기 앞다리살 600g", "양파", "대파", "고추장", "다진 마늘", "생강"],
         instructions: ["돼지고기를 양념에 재워 20분간 둡니다.", "달군 팬에 고기를 넣고 볶습니다.", "고기가 익으면 채소를 넣고 함께 볶아냅니다."]

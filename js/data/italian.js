@@ -7,7 +7,7 @@ const italianRecipes = [
         mood: ["comfort", "energetic"],
         time: "1시간 30분",
         calories: "650 kcal",
-        image: "https://images.unsplash.com/photo-1598866594240-a02082152868?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/61/800/600",
         description: "다진 고기와 토마토 소스로 만든 풍부한 맛의 클래식한 파스타 요리입니다.",
         ingredients: ["스파게티", "다진 쇠고기", "토마토 소스", "양파", "당근", "셀러리", "레드 와인"],
         instructions: ["양파, 당근, 셀러리를 볶습니다.", "다진 고기를 넣고 볶다가 레드 와인을 넣습니다.", "토마토 소스를 넣고 오랜 시간 끓여 소스를 만듭니다.", "삶은 스파게티와 함께 냅니다."]
@@ -20,7 +20,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "25분",
         calories: "700 kcal",
-        image: "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/62/800/600",
         description: "토마토, 모차렐라, 바질만으로 맛을 낸 이탈리아의 상징적인 피자입니다.",
         ingredients: ["피자 도우", "토마토 소스", "생 모차렐라 치즈", "신선한 바질", "올리브 오일"],
         instructions: ["피자 도우에 토마토 소스를 폅니다.", "모차렐라 치즈를 찢어 올립니다.", "화덕이나 오븐에 노릇하게 굽습니다.", "신선한 바질과 올리브 오일을 뿌려 완성합니다."]
@@ -33,7 +33,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "2시간",
         calories: "800 kcal",
-        image: "https://images.unsplash.com/photo-1574894709920-11b297c72e31?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/63/800/600",
         description: "파스타, 라구 소스, 베샤멜 소스, 치즈를 겹겹이 쌓아 오븐에 구워낸 요리입니다.",
         ingredients: ["라자냐 파스타", "라구 소스", "베샤멜 소스", "파르미지아노 레지아노 치즈", "모차렐라 치즈"],
         instructions: ["라구 소스와 베샤멜 소스를 준비합니다.", "오븐 용기에 소스와 파스타, 치즈를 겹겹이 쌓습니다.", "오븐에서 치즈가 황금색이 될 때까지 굽습니다."]
@@ -46,7 +46,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "20분",
         calories: "750 kcal",
-        image: "https://images.unsplash.com/photo-1613430098991-9c6031575a7a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/64/800/600",
         description: "버터와 파르미지아노 레지아노 치즈만으로 만드는 간단하면서도 매우 크리미한 파스타입니다.",
         ingredients: ["페투치네 파스타", "버터", "파르미지아노 레지아노 치즈", "흑후추"],
         instructions: ["페투치네를 삶습니다.", "팬에 버터와 치즈, 파스타 삶은 물을 조금 넣어 녹여 크림 소스를 만듭니다.", "삶은 페투치네를 넣고 빠르게 섞어줍니다."]
@@ -59,7 +59,7 @@ const italianRecipes = [
         mood: ["comfort", "adventure"],
         time: "25분",
         calories: "700 kcal",
-        image: "https://images.unsplash.com/photo-1588013273468-437e0d354df1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/65/800/600",
         description: "달걀 노른자, 페코리노 로마노 치즈, 관찰레, 흑후추로 만드는 로마식 파스타입니다. (크림X)",
         ingredients: ["스파게티", "관찰레(또는 판체타)", "달걀 노른자", "페코리노 로마노 치즈", "흑후추"],
         instructions: ["관찰레를 바삭하게 볶습니다.", "달걀 노른자와 치즈, 후추를 섞어 소스를 만듭니다.", "삶은 스파게티와 볶은 관찰레, 소스를 빠르게 섞어 완성합니다."]
@@ -72,7 +72,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "40분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1596422874218-a15d2a6a1663?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/66/800/600",
         description: "쌀을 육수에 넣고 저어가며 크리미하게 만든 이탈리아 북부의 쌀 요리입니다.",
         ingredients: ["리조또용 쌀 (아르보리오 등)", "양파", "화이트 와인", "닭고기 또는 채소 육수", "파르미지아노 레지아노 치즈"],
         instructions: ["양파를 볶다가 쌀을 넣고 투명해질 때까지 볶습니다.", "화이트 와인을 넣고 알코올을 날립니다.", "육수를 조금씩 부어가며 쌀이 익을 때까지 계속 젓습니다.", "마지막에 치즈와 버터를 넣어 마무리합니다."]
@@ -85,7 +85,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "50분",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1595743841133-31121d58d245?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/67/800/600",
         description: "감자나 리코타 치즈로 만든 부드러운 이탈리아식 수제비입니다.",
         ingredients: ["감자", "밀가루", "달걀", "원하는 소스 (토마토, 크림, 페스토 등)"],
         instructions: ["감자를 삶아 으깬 후 밀가루, 달걀과 섞어 반죽합니다.", "반죽을 길게 밀어 한입 크기로 자릅니다.", "끓는 소금물에 익혀 떠오르면 건져 소스와 함께 먹습니다."]
@@ -98,7 +98,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "30분 (냉장 시간 제외)",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1571877275938-202b04c8a245?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/68/800/600",
         description: "커피에 적신 사보이아르디 비스킷과 마스카르포네 치즈 크림을 겹겹이 쌓아 만든 대표적인 이탈리아 디저트입니다.",
         ingredients: ["사보이아르디(레이디핑거)", "에스프레소 커피", "마스카르포네 치즈", "달걀 노른자", "설탕", "코코아 파우더"],
         instructions: ["커피를 준비하여 식힙니다.", "노른자와 설탕을 휘저어 마스카르포네 치즈와 섞어 크림을 만듭니다.", "비스킷을 커피에 적셔 그릇에 깔고 크림을 덮는 과정을 반복합니다.", "냉장고에서 굳힌 후 코코아 파우더를 뿌려 냅니다."]
@@ -111,7 +111,7 @@ const italianRecipes = [
         mood: ["healthy", "energetic"],
         time: "15분",
         calories: "250 kcal",
-        image: "https://images.unsplash.com/photo-1505253668822-42074d58a7c6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/69/800/600",
         description: "구운 빵에 마늘을 문지르고 신선한 토마토와 바질, 올리브 오일을 얹어 먹는 전채 요리입니다.",
         ingredients: ["바게트 또는 치아바타", "토마토", "신선한 바질", "마늘", "올리브 오일", "소금"],
         instructions: ["빵을 노릇하게 굽습니다.", "구운 빵에 생마늘을 문질러 향을 입힙니다.", "잘게 썬 토마토와 바질을 올리브 오일, 소금과 섞어 빵 위에 올립니다."]
@@ -124,7 +124,7 @@ const italianRecipes = [
         mood: ["healthy", "comfort"],
         time: "1시간",
         calories: "300 kcal",
-        image: "https://images.unsplash.com/photo-1547592180-81f7c52c2a4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/70/800/600",
         description: "다양한 제철 채소와 파스타, 콩 등을 넣어 끓인 푸짐하고 건강한 이탈리아식 수프입니다.",
         ingredients: ["양파", "당근", "셀러리", "감자", "토마토", "작은 파스타", "강낭콩", "채소 육수"],
         instructions: ["채소를 볶다가 육수와 토마토를 넣고 끓입니다.", "채소가 익으면 파스타와 콩을 넣고 익을 때까지 끓입니다.", "파르미지아노 치즈를 곁들여 먹습니다."]
@@ -137,7 +137,7 @@ const italianRecipes = [
         mood: ["healthy", "energetic"],
         time: "20분",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1611270418597-a4c0a525b63c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/71/800/600",
         description: "신선한 바질, 잣, 마늘, 파르미지아노 치즈, 올리브 오일로 만든 향긋한 페스토 소스를 곁들인 파스타입니다.",
         ingredients: ["파스타 (푸실리, 트로피에 등)", "바질 페스토", "감자", "그린빈", "파르미지아노 레지아노 치즈"],
         instructions: ["감자와 그린빈을 삶다가 파스타를 넣어 함께 삶습니다.", "건져낸 재료에 페스토를 넣고 버무립니다.", "치즈를 갈아 뿌려 냅니다."]
@@ -150,7 +150,7 @@ const italianRecipes = [
         mood: ["healthy"],
         time: "10분",
         calories: "300 kcal",
-        image: "https://images.unsplash.com/photo-1579112933653-93976e19c636?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/72/800/600",
         description: "신선한 모차렐라 치즈, 토마토, 바질을 층층이 쌓고 올리브 오일과 소금으로 간을 한 간단한 샐러드입니다.",
         ingredients: ["생 모차렐라 치즈", "완숙 토마토", "신선한 바질", "엑스트라 버진 올리브 오일", "소금", "발사믹 글레이즈 (선택)"],
         instructions: ["토마토와 모차렐라 치즈를 비슷한 두께로 썹니다.", "접시에 토마토, 치즈, 바질 잎을 번갈아 담습니다.", "올리브 오일과 소금을 뿌려 냅니다."]
@@ -163,7 +163,7 @@ const italianRecipes = [
         mood: ["adventure"],
         time: "1시간",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1582576324419-2a9121857c68?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/73/800/600",
         description: "리조또를 동그랗게 뭉쳐 속에 라구 소스와 치즈 등을 넣고 빵가루를 입혀 튀겨낸 시칠리아식 주먹밥 튀김입니다.",
         ingredients: ["남은 리조또", "라구 소스", "모차렐라 치즈", "밀가루", "달걀", "빵가루"],
         instructions: ["리조또를 손에 펴고 가운데에 소스와 치즈를 넣고 감싸 동그랗게 만듭니다.", "밀가루, 달걀, 빵가루 순으로 튀김옷을 입힙니다.", "황금색이 될 때까지 튀겨냅니다."]
@@ -176,7 +176,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "45분",
         calories: "750 kcal",
-        image: "https://images.unsplash.com/photo-1632770283023-f222fa6b2847?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/74/800/600",
         description: "빵가루를 입혀 튀긴 닭가슴살 위에 토마토 소스와 모차렐라 치즈를 얹어 구워낸 요리입니다.",
         ingredients: ["닭가슴살", "빵가루", "토마토 소스", "모차렐라 치즈", "파르미지아노 레지아노 치즈"],
         instructions: ["닭가슴살을 얇게 펴서 튀김옷을 입혀 튀기거나 굽습니다.", "오븐 용기에 닭을 담고 토마토 소스와 치즈를 올립니다.", "치즈가 녹고 bubbling할 때까지 오븐에 굽습니다."]
@@ -189,7 +189,7 @@ const italianRecipes = [
         mood: ["comfort", "healthy"],
         time: "1시간 15분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1603892461159-8733b8a4a5d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/75/800/600",
         description: "구운 가지, 토마토 소스, 치즈를 겹겹이 쌓아 오븐에 구워낸 채식 요리입니다.",
         ingredients: ["가지", "토마토 소스", "모차렐라 치즈", "파르미지아노 레지아노 치즈", "바질"],
         instructions: ["가지를 얇게 썰어 굽거나 튀깁니다.", "오븐 용기에 토마토 소스, 가지, 치즈, 바질을 겹겹이 쌓습니다.", "오븐에서 30-40분간 굽습니다."]
@@ -202,7 +202,7 @@ const italianRecipes = [
         mood: ["comfort", "adventure"],
         time: "15분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1613430098991-9c6031575a7a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/76/800/600",
         description: "페코리노 로마노 치즈와 흑후추만으로 만드는, 간단하지만 깊은 맛을 내는 로마의 파스타입니다.",
         ingredients: ["스파게티 또는 토나렐리", "페코리노 로마노 치즈", "굵게 간 흑후추"],
         instructions: ["팬에 흑후추를 살짝 볶아 향을 냅니다.", "파스타 삶은 물을 조금 넣고, 간 치즈를 넣어 크림처럼 만듭니다.", "삶은 파스타를 넣고 빠르게 섞어줍니다. 불을 끄고 섞는 것이 중요합니다."]
@@ -215,7 +215,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "3시간",
         calories: "850 kcal",
-        image: "https://images.unsplash.com/photo-1596422874218-a15d2a6a1663?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/77/800/600",
         description: "송아지 정강이 뼈를 화이트 와인과 채소와 함께 푹 끓여 만든 밀라노 지방의 요리입니다.",
         ingredients: ["송아지 정강이(오소부코)", "양파", "당근", "셀러리", "화이트 와인", "육수", "그레몰라타(파슬리, 마늘, 레몬 제스트)"],
         instructions: ["송아지 정강이에 밀가루를 묻혀 팬에 굽습니다.", "채소를 볶다가 와인을 넣고 졸입니다.", "송아지 정강이와 육수를 넣고 2-3시간 동안 부드러워질 때까지 끓입니다.", "그레몰라타를 곁들여 냅니다."]
@@ -228,7 +228,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1595743841133-31121d58d245?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/78/800/600",
         description: "고기나 치즈로 속을 채운 반지 모양의 파스타로, 주로 맑은 육수에 넣어 먹습니다.",
         ingredients: ["토르텔리니", "닭고기 육수", "파르미지아노 레지아노 치즈"],
         instructions: ["닭고기 육수를 끓입니다.", "토르텔리니를 넣고 떠오를 때까지 익힙니다.", "그릇에 담고 치즈를 갈아 뿌려 냅니다."]
@@ -241,7 +241,7 @@ const italianRecipes = [
         mood: ["adventure"],
         time: "1시간",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1627992945248-facff36a4a68?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/79/800/600",
         description: "바삭하게 튀긴 튜브 모양의 페이스트리 안에 달콤한 리코타 치즈 필링을 채워 넣은 시칠리아의 대표 디저트입니다.",
         ingredients: ["칸놀리 쉘", "리코타 치즈", "슈가 파우더", "초콜릿 칩", "설탕에 절인 과일"],
         instructions: ["리코타 치즈의 물기를 제거하고 슈가 파우더와 섞어 부드럽게 만듭니다.", "초콜릿 칩이나 과일을 섞습니다.", "먹기 직전에 짤주머니를 이용해 칸놀리 쉘 안에 필링을 채웁니다."]
@@ -254,7 +254,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "30분 (얼리는 시간 제외)",
         calories: "250 kcal",
-        image: "https://images.unsplash.com/photo-1567197789113-68a8a2040d6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/80/800/600",
         description: "일반 아이스크림보다 공기 함량이 적고 밀도가 높아 진한 맛을 내는 이탈리아식 아이스크림입니다.",
         ingredients: ["우유", "생크림", "설탕", "달걀 노른자", "원하는 맛 (바닐라, 초콜릿, 과일 등)"],
         instructions: ["우유, 생크림, 설탕, 노른자를 섞어 커스터드 베이스를 만듭니다.", "원하는 맛을 추가합니다.", "아이스크림 메이커에 돌리거나 냉동실에서 얼리면서 주기적으로 저어줍니다."]
@@ -267,7 +267,7 @@ const italianRecipes = [
         mood: ["adventure"],
         time: "20분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1598866594240-a02082152868?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/81/800/600",
         description: "얇게 편 송아지 고기에 프로슈토와 세이지 잎을 올려 화이트 와인에 구워낸 로마식 요리입니다.",
         ingredients: ["송아지 고기", "프로슈토", "세이지 잎", "화이트 와인", "버터"],
         instructions: ["송아지 고기 위에 프로슈토와 세이지 잎을 올리고 이쑤시개로 고정합니다.", "버터를 두른 팬에 앞뒤로 굽습니다.", "화이트 와인을 붓고 살짝 졸여 소스를 만듭니다."]
@@ -280,7 +280,7 @@ const italianRecipes = [
         mood: ["healthy", "comfort"],
         time: "1시간 30분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1547592180-81f7c52c2a4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/82/800/600",
         description: "오래된 빵과 채소를 넣어 다시 끓여 만든 토스카나 지방의 푸짐한 수프입니다.",
         ingredients: ["오래된 빵", "케일", "양배추", "강낭콩", "토마토", "채소 육수"],
         instructions: ["채소를 볶다가 토마토와 육수를 넣고 끓입니다.", "익힌 콩과 채소를 넣어 더 끓입니다.", "먹기 전에 빵을 넣고 다시 한번 끓여 걸쭉하게 만듭니다."]
@@ -293,7 +293,7 @@ const italianRecipes = [
         mood: ["comfort", "healthy"],
         time: "45분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1598866594240-a02082152868?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/83/800/600",
         description: "파스타와 콩을 함께 끓여 만든 이탈리아의 전통적인 수프입니다.",
         ingredients: ["작은 파스타", "콩 (카넬리니 등)", "판체타", "양파", "토마토 페이스트", "육수"],
         instructions: ["판체타와 양파를 볶습니다.", "토마토 페이스트를 넣고 볶다가 콩과 육수를 넣어 끓입니다.", "파스타를 넣고 익을 때까지 끓입니다."]
@@ -306,7 +306,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "2시간 (발효 시간 포함)",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1588665753194-c7a6b7a136a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/84/800/600",
         description: "올리브 오일과 허브를 뿌려 구워낸 납작한 이탈리아 빵입니다. 겉은 바삭하고 속은 부드럽습니다.",
         ingredients: ["강력분", "이스트", "물", "올리브 오일", "소금", "로즈마리"],
         instructions: ["반죽을 만들어 1차 발효시킵니다.", "팬에 반죽을 펴고 손가락으로 구멍을 냅니다.", "올리브 오일, 로즈마리, 소금을 뿌려 2차 발효 후 오븐에 굽습니다."]
@@ -319,7 +319,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "20분 (굳히는 시간 제외)",
         calories: "300 kcal",
-        image: "https://images.unsplash.com/photo-1527182742299-e610b271b4a3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/85/800/600",
         description: "생크림을 설탕과 함께 끓이다가 젤라틴으로 굳혀 만든 부드러운 이탈리아식 푸딩입니다.",
         ingredients: ["생크림", "우유", "설탕", "바닐라 빈", "젤라틴"],
         instructions: ["젤라틴을 찬물에 불립니다.", "냄비에 생크림, 우유, 설탕, 바닐라를 넣고 데웁니다.", "불린 젤라틴을 넣고 녹인 후 틀에 부어 냉장고에서 굳힙니다.", "과일 소스 등을 곁들입니다."]
@@ -332,7 +332,7 @@ const italianRecipes = [
         mood: ["adventure", "healthy"],
         time: "25분",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1621996346565-e326e2c21252?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/86/800/600",
         description: "신선한 조개를 화이트 와인과 함께 볶아 시원한 감칠맛을 낸 오일 파스타입니다.",
         ingredients: ["스파게티", "모시조개 또는 바지락", "마늘", "페페론치노", "화이트 와인", "파슬리"],
         instructions: ["조개를 해감합니다.", "팬에 올리브 오일을 두르고 마늘과 페페론치노를 볶습니다.", "조개와 화이트 와인을 넣고 뚜껑을 닫아 조개가 입을 벌리도록 익힙니다.", "삶은 스파게티를 넣고 파슬리와 함께 섞어냅니다."]
@@ -345,7 +345,7 @@ const italianRecipes = [
         mood: ["healthy", "energetic"],
         time: "10분",
         calories: "200 kcal",
-        image: "https://images.unsplash.com/photo-1521117184282-5c2496739d2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/87/800/600",
         description: "달콤한 멜론에 짭짤한 프로슈토 햄을 감싸 먹는 간단하면서도 세련된 전채 요리입니다.",
         ingredients: ["칸탈루프 멜론", "프로슈토"],
         instructions: ["멜론을 먹기 좋은 크기로 자릅니다.", "프로슈토로 멜론을 감쌉니다.", "차가울 때 바로 먹습니다."]
@@ -358,7 +358,7 @@ const italianRecipes = [
         mood: ["energetic"],
         time: "15분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1627042599222-b957688224d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/88/800/600",
         description: "마늘과 올리브 오일, 페페론치노만으로 맛을 낸 가장 기본적이고 담백한 오일 파스타입니다.",
         ingredients: ["스파게티", "마늘", "올리브 오일", "페페론치노", "파슬리"],
         instructions: ["팬에 올리브 오일을 넉넉히 두르고 편으로 썬 마늘과 페페론치노를 약불에서 천천히 볶아 향을 냅니다.", "삶은 스파게티와 파스타 삶은 물을 조금 넣고 빠르게 섞어 유화시킵니다.", "다진 파슬리를 뿌려 냅니다."]
@@ -371,7 +371,7 @@ const italianRecipes = [
         mood: ["comfort", "healthy"],
         time: "45분",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1596422874218-a15d2a6a1663?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/89/800/600",
         description: "옥수수 가루를 물이나 육수에 넣고 죽처럼 끓여 만든 이탈리아 북부의 전통 요리입니다.",
         ingredients: ["폴렌타(옥수수 가루)", "물 또는 육수", "버터", "파르미지아노 레지아노 치즈"],
         instructions: ["끓는 물이나 육수에 폴렌타를 조금씩 넣으며 계속 젓습니다.", "걸쭉해지고 옥수수 가루가 다 익을 때까지 약 30-40분간 젓습니다.", "버터와 치즈를 넣어 마무리합니다.", "따뜻할 때 그대로 먹거나 식혀서 굳힌 뒤 구워 먹을 수 있습니다."]
@@ -384,7 +384,7 @@ const italianRecipes = [
         mood: ["energetic"],
         time: "1시간",
         calories: "150 kcal (1개)",
-        image: "https://images.unsplash.com/photo-1549903159-54b2d355a14a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/90/800/600",
         description: "두 번 구워 매우 단단하고 바삭한 이탈리아식 비스킷입니다. 주로 커피에 찍어 먹습니다.",
         ingredients: ["밀가루", "설탕", "달걀", "베이킹 파우더", "아몬드 또는 다른 견과류"],
         instructions: ["모든 재료를 섞어 반죽을 만듭니다.", "반죽을 길고 납작한 덩어리로 만들어 1차로 굽습니다.", "구운 덩어리를 식힌 후 얇게 썰어 다시 한번 굽습니다."]

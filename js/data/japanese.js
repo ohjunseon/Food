@@ -7,7 +7,7 @@ const japaneseRecipes = [
         mood: ["adventure", "healthy"],
         time: "1시간",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/31/800/600",
         description: "신선한 해산물과 초밥이 어우러진 일본의 대표적인 요리입니다.",
         ingredients: ["초밥용 밥", "다양한 신선한 생선 (참치, 연어 등)", "김", "와사비", "간장"],
         instructions: ["초밥을 만들어 식힙니다.", "생선을 얇게 썹니다.", "밥 위에 와사비를 살짝 바르고 생선을 얹습니다.", "김으로 감싸거나 그대로 간장에 찍어 먹습니다."]
@@ -20,7 +20,7 @@ const japaneseRecipes = [
         mood: ["comfort", "energetic"],
         time: "45분",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1552633604-0b199d34e258?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/32/800/600",
         description: "진한 육수와 쫄깃한 면발, 다양한 토핑이 어우러진 일본식 국수 요리입니다.",
         ingredients: ["라멘 면", "돈코츠 또는 미소 육수", "차슈", "삶은 달걀", "숙주", "파"],
         instructions: ["육수를 준비하고 면을 삶습니다.", "그릇에 면을 담고 뜨거운 육수를 붓습니다.", "준비된 차슈, 달걀, 숙주, 파 등의 토핑을 올립니다."]
@@ -33,7 +33,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1618091392283-a4c3a284e4e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/33/800/600",
         description: "두툼한 돼지고기를 바삭하게 튀겨낸 일본식 커틀릿입니다.",
         ingredients: ["돼지 등심", "밀가루", "달걀", "빵가루", "양배추", "돈카츠 소스"],
         instructions: ["돼지고기에 소금, 후추로 밑간을 합니다.", "밀가루, 달걀, 빵가루 순으로 튀김옷을 입힙니다.", "기름에 노릇하게 튀겨냅니다.", "얇게 썬 양배추와 돈카츠 소스를 곁들입니다."]
@@ -46,7 +46,7 @@ const japaneseRecipes = [
         mood: ["adventure"],
         time: "25분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1626202157962-a82a1a1b8a5a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/34/800/600",
         description: "신선한 채소와 해산물을 얇은 튀김옷을 입혀 바삭하게 튀겨낸 요리입니다.",
         ingredients: ["새우", "가지", "고구마", "피망", "튀김가루", "얼음물"],
         instructions: ["튀김가루와 얼음물을 섞어 튀김 반죽을 만듭니다.", "손질한 재료에 튀김 반죽을 얇게 입힙니다.", "기름에 바삭하게 튀겨내어 덴푸라 소스에 찍어 먹습니다."]
@@ -59,7 +59,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "20분",
         calories: "300 kcal",
-        image: "https://images.unsplash.com/photo-1588771463721-3c0638c0f7f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/35/800/600",
         description: "닭고기와 채소를 꼬치에 꿰어 달콤한 간장 소스를 발라 구워낸 요리입니다.",
         ingredients: ["닭다리살", "대파", "간장", "미림", "설탕"],
         instructions: ["닭고기와 대파를 한입 크기로 썰어 꼬치에 꿴다.", "간장, 미림, 설탕을 졸여 데리야키 소스를 만든다.", "꼬치에 소스를 발라가며 굽는다."]
@@ -72,7 +72,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "20분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1612929022026-9f3e1b4b3b2a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/36/800/600",
         description: "따뜻하고 시원한 국물에 쫄깃한 면발이 특징인 일본식 국수 요리입니다.",
         ingredients: ["우동면", "가쓰오부시 육수", "유부", "어묵", "파"],
         instructions: ["육수를 끓이고 우동면을 삶습니다.", "그릇에 면을 담고 뜨거운 육수를 붓습니다.", "유부, 어묵, 파 등의 고명을 올립니다."]
@@ -85,7 +85,7 @@ const japaneseRecipes = [
         mood: ["healthy"],
         time: "15분",
         calories: "350 kcal",
-        image: "https://images.unsplash.com/photo-1546824921-39691857c669?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/37/800/600",
         description: "메밀로 만든 면을 차가운 간장 소스에 찍어 먹는 깔끔한 여름 별미입니다.",
         ingredients: ["소바 면", "쯔유", "무", "와사비", "김가루"],
         instructions: ["소바 면을 삶아 차갑게 헹굽니다.", "쯔유에 간 무와 와사비를 풀어 소스를 만듭니다.", "면에 김가루를 뿌려 소스에 찍어 먹습니다."]
@@ -98,7 +98,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "20분",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1582576324419-2a9121857c68?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/38/800/600",
         description: "얇게 썬 소고기와 양파를 달콤짭짤한 소스에 끓여 밥 위에 얹어 먹는 덮밥입니다.",
         ingredients: ["소고기 불고기감", "양파", "간장", "미림", "설탕", "다시마 육수"],
         instructions: ["팬에 육수, 간장, 미림, 설탕을 넣고 끓입니다.", "양파를 넣고 익으면 소고기를 넣어 익힙니다.", "따뜻한 밥 위에 얹어 냅니다."]
@@ -111,7 +111,7 @@ const japaneseRecipes = [
         mood: ["adventure"],
         time: "35분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1594911762332-9457a4143890?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/39/800/600",
         description: "양배추와 다양한 재료를 넣은 반죽을 부쳐내 소스와 마요네즈를 뿌려 먹는 일본식 부침개입니다.",
         ingredients: ["밀가루", "달걀", "양배추", "돼지고기 또는 해산물", "오코노미야키 소스", "마요네즈", "가쓰오부시"],
         instructions: ["밀가루, 달걀, 물을 섞어 반죽을 만들고 채 썬 양배추와 재료를 섞습니다.", "팬에 반죽을 부어 앞뒤로 노릇하게 익힙니다.", "소스를 바르고 마요네즈와 가쓰오부시를 뿌려 냅니다."]
@@ -124,7 +124,7 @@ const japaneseRecipes = [
         mood: ["adventure"],
         time: "30분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1572093510580-b25866b15a6b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/40/800/600",
         description: "동그란 틀에 밀가루 반죽과 문어를 넣어 구워낸 일본의 대표적인 길거리 음식입니다.",
         ingredients: ["타코야키 믹스", "달걀", "물", "삶은 문어", "파", "타코야키 소스", "마요네즈", "가쓰오부시"],
         instructions: ["반죽을 만들어 타코야키 팬에 붓습니다.", "문어와 파를 넣고 반죽을 돌려가며 동그랗게 익힙니다.", "소스를 바르고 마요네즈와 가쓰오부시를 뿌려 냅니다."]
@@ -137,7 +137,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "25분",
         calories: "480 kcal",
-        image: "https://images.unsplash.com/photo-1623341268894-3a0e69b56506?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/41/800/600",
         description: "간장과 생강, 마늘 양념에 재운 닭고기를 바삭하게 튀겨낸 일본식 닭튀김입니다.",
         ingredients: ["닭다리살", "간장", "청주", "다진 생강", "다진 마늘", "전분"],
         instructions: ["닭고기를 양념에 15분간 재웁니다.", "전분을 묻혀 170도 기름에서 두 번 튀겨냅니다.", "레몬을 곁들여 먹으면 더욱 상큼합니다."]
@@ -150,7 +150,7 @@ const japaneseRecipes = [
         mood: ["healthy", "comfort"],
         time: "10분",
         calories: "80 kcal",
-        image: "https://images.unsplash.com/photo-1563245362-ec42f44a8b70?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/42/800/600",
         description: "다시마와 가쓰오부시로 우려낸 육수에 미소 된장을 풀어 만든 일본의 기본 국물 요리입니다.",
         ingredients: ["다시마", "가쓰오부시", "미소 된장", "두부", "미역", "파"],
         instructions: ["물에 다시마를 넣어 끓기 직전에 건져냅니다.", "가쓰오부시를 넣고 1분 뒤 걸러내 육수를 만듭니다.", "육수에 미소 된장을 풀고 두부, 미역, 파를 넣어 완성합니다."]
@@ -163,7 +163,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "15분",
         calories: "200 kcal",
-        image: "https://images.unsplash.com/photo-1596044239822-c743c9455b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/43/800/600",
         description: "밥에 다양한 속재료를 넣고 삼각형이나 원형으로 뭉쳐 김으로 감싼 일본식 주먹밥입니다.",
         ingredients: ["밥", "김", "참치마요", "명란", "우메보시", "소금"],
         instructions: ["밥에 소금으로 간을 합니다.", "원하는 속재료를 가운데에 넣고 모양을 만듭니다.", "김으로 감싸줍니다."]
@@ -176,7 +176,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "20분",
         calories: "550 kcal",
-        image: "https://images.unsplash.com/photo-1585149791438-e5a59321287e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/44/800/600",
         description: "돼지고기와 채소를 면과 함께 볶아 달콤한 소스로 맛을 낸 일본식 볶음 국수입니다.",
         ingredients: ["중화면", "돼지고기", "양배추", "당근", "숙주", "야키소바 소스"],
         instructions: ["팬에 기름을 두르고 돼지고기와 채소를 볶습니다.", "면을 넣고 함께 볶다가 소스를 넣고 잘 섞어줍니다.", "가쓰오부시나 파래 가루를 뿌려 먹습니다."]
@@ -189,7 +189,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "40분",
         calories: "650 kcal",
-        image: "https://images.unsplash.com/photo-1598103442345-3cc4f0343a4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/45/800/600",
         description: "감자, 당근, 양파 등의 채소와 고기를 볶아 카레 루와 함께 끓여 밥과 함께 먹는 요리입니다.",
         ingredients: ["소고기 또는 닭고기", "감자", "당근", "양파", "일본 카레 루", "밥"],
         instructions: ["고기와 채소를 볶습니다.", "물을 붓고 재료가 부드러워질 때까지 끓입니다.", "불을 끄고 카레 루를 넣어 녹인 후 다시 끓여 농도를 맞춥니다."]
@@ -202,7 +202,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "35분",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1594911762332-9457a4143890?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/46/800/600",
         description: "소고기와 양파를 데미글라스 소스로 끓여 밥 위에 얹어 먹는 서양식에서 유래한 일본 요리입니다.",
         ingredients: ["소고기", "양파", "버섯", "데미글라스 소스", "레드 와인", "버터"],
         instructions: ["버터에 양파를 갈색이 되도록 볶습니다.", "소고기와 버섯을 볶다가 레드 와인을 넣어 알코올을 날립니다.", "데미글라스 소스와 물을 넣고 끓여 밥과 함께 냅니다."]
@@ -215,7 +215,7 @@ const japaneseRecipes = [
         mood: ["adventure"],
         time: "30분",
         calories: "700 kcal",
-        image: "https://images.unsplash.com/photo-1623341268894-3a0e69b56506?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/47/800/600",
         description: "튀긴 닭고기를 새콤달콤한 소스에 적셔 타르타르 소스를 곁들여 먹는 미야자키현의 명물 요리입니다.",
         ingredients: ["닭다리살", "밀가루", "달걀", "식초", "설탕", "간장", "타르타르 소스"],
         instructions: ["닭고기에 튀김옷을 입혀 튀깁니다.", "식초, 설탕, 간장을 섞어 만든 난반 소스에 튀긴 닭을 담급니다.", "타르타르 소스를 듬뿍 얹어 먹습니다."]
@@ -228,7 +228,7 @@ const japaneseRecipes = [
         mood: ["healthy", "comfort"],
         time: "30분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/48/800/600",
         description: "신선한 고등어를 미소 된장과 생강을 넣은 양념에 조려낸 일본의 가정식 요리입니다.",
         ingredients: ["고등어", "미소 된장", "청주", "미림", "설탕", "다진 생강"],
         instructions: ["고등어는 뜨거운 물을 부어 비린내를 제거합니다.", "냄비에 모든 양념 재료와 물, 생강을 넣고 끓입니다.", "고등어를 넣고 국물을 끼얹어 가며 윤기 나게 조립니다."]
@@ -241,7 +241,7 @@ const japaneseRecipes = [
         mood: ["comfort", "energetic"],
         time: "40분",
         calories: "700 kcal",
-        image: "https://images.unsplash.com/photo-1552633604-0b199d34e258?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/49/800/600",
         description: "얇게 썬 소고기와 채소, 두부 등을 달콤한 간장 소스로 끓여 날달걀에 찍어 먹는 전골 요리입니다.",
         ingredients: ["소고기 등심", "배추", "대파", "표고버섯", "두부", "실곤약", "스키야키 소스", "달걀"],
         instructions: ["전골 팬에 소고기 지방을 녹여 파를 볶아 향을 냅니다.", "소고기를 살짝 구워 소스를 넣습니다.", "나머지 재료를 돌려 담고 육수와 소스를 부어 끓여가며 먹습니다."]
@@ -254,7 +254,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "1시간",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1618091392283-a4c3a284e4e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/50/800/600",
         description: "다양한 어묵과 무, 곤약, 달걀 등을 가쓰오부시 육수에 푹 끓여낸 겨울철 대표 요리입니다.",
         ingredients: ["모듬 어묵", "무", "곤약", "삶은 달걀", "다시마", "가쓰오부시"],
         instructions: ["무는 두껍게 썰어 미리 익혀둡니다.", "다시마와 가쓰오부시로 육수를 냅니다.", "육수에 간장, 미림으로 간을 하고 모든 재료를 넣어 뭉근하게 끓입니다."]
@@ -267,7 +267,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "2시간",
         calories: "800 kcal",
-        image: "https://images.unsplash.com/photo-1626202157962-a82a1a1b8a5a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/51/800/600",
         description: "돼지고기 덩어리를 간장 양념에 푹 삶아 부드럽게 만든 요리로, 라멘 토핑이나 덮밥으로 즐깁니다.",
         ingredients: ["돼지고기 삼겹살 또는 목살", "간장", "청주", "미림", "설탕", "대파", "생강"],
         instructions: ["돼지고기 겉면을 팬에 노릇하게 굽습니다.", "냄비에 돼지고기와 모든 양념 재료, 물을 넣고 1시간 이상 푹 삶습니다.", "얇게 썰어 라멘이나 밥 위에 얹어 먹습니다."]
@@ -280,7 +280,7 @@ const japaneseRecipes = [
         mood: ["healthy", "energetic"],
         time: "25분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1546824921-39691857c669?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/52/800/600",
         description: "차가운 중화면에 채 썬 오이, 햄, 달걀 지단 등을 올리고 새콤한 간장 소스를 뿌려 먹는 여름 국수입니다.",
         ingredients: ["중화면", "오이", "햄", "달걀 지단", "맛살", "간장", "식초", "설탕", "참기름"],
         instructions: ["면을 삶아 차갑게 헹굽니다.", "모든 고명을 얇게 채 썹니다.", "그릇에 면을 담고 고명을 돌려 담은 후 소스를 뿌립니다."]
@@ -293,7 +293,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "5분",
         calories: "250 kcal",
-        image: "https://images.unsplash.com/photo-1582576324419-2a9121857c68?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/53/800/600",
         description: "따뜻한 밥 위에 연어, 우메보시 등의 고명을 올리고 따뜻한 녹차나 육수를 부어 먹는 간편한 식사입니다.",
         ingredients: ["밥", "녹차 또는 다시 육수", "구운 연어", "우메보시", "김가루", "와사비"],
         instructions: ["그릇에 밥을 담습니다.", "원하는 고명을 올립니다.", "뜨거운 녹차나 육수를 붓고 와사비를 곁들여 먹습니다."]
@@ -306,7 +306,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "25분",
         calories: "750 kcal",
-        image: "https://images.unsplash.com/photo-1594911762332-9457a4143890?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/54/800/600",
         description: "밥 위에 돈카츠와 양파를 끓인 달걀을 덮어 먹는 일본식 덮밥입니다.",
         ingredients: ["돈카츠", "양파", "달걀", "다시 육수", "간장", "미림", "밥"],
         instructions: ["팬에 육수와 양념, 양파를 넣고 끓입니다.", "돈카츠를 올리고 달걀물을 풀어 전체적으로 붓습니다.", "달걀이 반숙으로 익으면 밥 위에 얹습니다."]
@@ -319,7 +319,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "450 kcal",
-        image: "https://images.unsplash.com/photo-1572093510580-b25866b15a6b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/55/800/600",
         description: "큼직한 새우에 빵가루를 입혀 바삭하게 튀겨낸 요리로, 타르타르 소스나 돈카츠 소스와 함께 즐깁니다.",
         ingredients: ["새우", "밀가루", "달걀", "빵가루", "타르타르 소스"],
         instructions: ["새우는 껍질을 벗기고 등을 갈라 내장을 제거합니다.", "밀가루, 달걀, 빵가루 순으로 튀김옷을 입힙니다.", "노릇하게 튀겨내어 소스와 함께 냅니다."]
@@ -332,7 +332,7 @@ const japaneseRecipes = [
         mood: ["healthy"],
         time: "15분",
         calories: "380 kcal",
-        image: "https://images.unsplash.com/photo-1623341268894-3a0e69b56506?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/56/800/600",
         description: "차가운 소바 위에 곱게 간 마를 얹고 쯔유를 부어 먹는 건강한 여름 별미입니다.",
         ingredients: ["소바 면", "마", "쯔유", "달걀 노른자", "파"],
         instructions: ["소바 면을 삶아 차갑게 헹굽니다.", "마는 강판에 갈아줍니다.", "그릇에 면을 담고 간 마와 노른자, 파를 올린 후 쯔유를 부어 먹습니다."]
@@ -345,7 +345,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "20분",
         calories: "650 kcal",
-        image: "https://images.unsplash.com/photo-1563245362-ec42f44a8b70?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/57/800/600",
         description: "두툼한 돼지고기를 달콤짭짤한 간장 소스에 구워 밥 위에 얹어 먹는 홋카이도식 덮밥입니다.",
         ingredients: ["돼지고기 목살", "간장", "미림", "설탕", "생강", "밥"],
         instructions: ["돼지고기는 살짝 두툼하게 썹니다.", "팬에 양념장 재료를 넣고 끓으면 돼지고기를 넣어 조리듯이 굽습니다.", "따뜻한 밥 위에 구운 고기를 얹고 남은 소스를 뿌립니다."]
@@ -358,7 +358,7 @@ const japaneseRecipes = [
         mood: ["comfort", "healthy"],
         time: "45분",
         calories: "500 kcal",
-        image: "https://images.unsplash.com/photo-1596044239822-c743c9455b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/58/800/600",
         description: "다양한 종류의 재료를 한 냄비에 담아 끓여 먹는 일본의 전골 요리를 총칭합니다.",
         ingredients: ["배추", "대파", "버섯", "두부", "소고기 또는 해산물", "다시마 육수", "폰즈 소스"],
         instructions: ["전골 냄비에 재료를 보기 좋게 담습니다.", "육수를 붓고 끓입니다.", "익은 재료는 폰즈 소스에 찍어 먹습니다."]
@@ -371,7 +371,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "15분",
         calories: "400 kcal",
-        image: "https://images.unsplash.com/photo-1585149791438-e5a59321287e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/59/800/600",
         description: "부드러운 식빵 사이에 두툼하고 부드러운 달걀 샐러드를 넣어 만든 일본식 달걀 샌드위치입니다.",
         ingredients: ["식빵", "달걀", "마요네즈", "설탕", "소금"],
         instructions: ["달걀을 완숙으로 삶아 으깬 후 마요네즈, 설탕, 소금과 섞습니다.", "식빵의 가장자리를 잘라냅니다.", "식빵 사이에 달걀 샐러드를 듬뿍 넣어 만듭니다."]
@@ -384,7 +384,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "35분",
         calories: "600 kcal",
-        image: "https://images.unsplash.com/photo-1598103442345-3cc4f0343a4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        image: "https://picsum.photos/seed/60/800/600",
         description: "다진 고기와 양파를 섞어 빵가루를 입혀 튀겨낸 일본식 커틀릿입니다. 육즙이 풍부합니다.",
         ingredients: ["다진 돼지고기/소고기", "양파", "달걀", "빵가루", "우유", "소금", "후추"],
         instructions: ["다진 양파를 볶아 식힙니다.", "고기, 양파, 빵가루, 우유, 달걀, 소금, 후추를 섞어 치댑니다.", "모양을 만들어 튀김옷을 입혀 노릇하게 튀겨냅니다."]
