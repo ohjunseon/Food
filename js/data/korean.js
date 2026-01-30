@@ -7,7 +7,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "40분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/kimchi,stew",
+        image: "https://loremflickr.com/800/600/kimchi,stew/all",
         description: "잘 익은 김치와 돼지고기를 넣고 푹 끓인 한국인의 소울 푸드.",
         ingredients: ["신김치 1/4포기", "돼지고기 목살 200g", "두부 1/2모", "대파 1대", "청양고추 1개", "고춧가루 1큰술", "다진 마늘 1큰술", "김치국물 1/2컵"],
         instructions: [
@@ -30,7 +30,7 @@ const koreanRecipes = [
         mood: ["healthy", "energetic"],
         time: "30분",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/bibimbap",
+        image: "https://loremflickr.com/800/600/bibimbap/all",
         description: "다채로운 나물과 고추장 양념이 어우러진 균형 잡힌 한 그릇.",
         ingredients: ["밥 1공기", "콩나물 한 줌", "시금치 한 줌", "당근 1/3개", "고사리 한 줌", "다진 소고기 50g", "달걀 1개", "고추장 1큰술", "참기름 1큰술", "통깨 약간"],
         instructions: [
@@ -53,7 +53,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "30분 (재우는 시간 제외)",
         calories: "480 kcal",
-        image: "https://loremflickr.com/800/600/bulgogi",
+        image: "https://loremflickr.com/800/600/bulgogi/all",
         description: "달콤 짭짤한 양념에 재운 소고기를 볶아낸 남녀노소 인기 메뉴.",
         ingredients: ["불고기용 소고기 600g", "양파 1개", "대파 1대", "당근 1/2개", "팽이버섯 1봉", "진간장 6큰술", "설탕 3큰술", "다진 마늘 1큰술", "참기름 1큰술", "후추 약간"],
         instructions: [
@@ -76,7 +76,7 @@ const koreanRecipes = [
         mood: ["comfort", "energetic"],
         time: "45분",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/japchae",
+        image: "https://loremflickr.com/800/600/japchae/all",
         description: "쫄깃한 당면과 다양한 채소를 볶아 버무린 잔치 음식.",
         ingredients: ["당면 200g", "시금치 1단", "당근 1/2개", "양파 1개", "표고버섯 4개", "잡채용 소고기 100g", "진간장", "설탕", "참기름", "통깨"],
         instructions: [
@@ -99,7 +99,7 @@ const koreanRecipes = [
         mood: ["adventure", "comfort"],
         time: "20분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/tteokbokki",
+        image: "https://loremflickr.com/800/600/tteokbokki/all",
         description: "매콤달콤한 고추장 소스에 쫄깃한 떡과 어묵의 조화.",
         ingredients: ["떡볶이 떡 300g", "사각 어묵 2장", "대파 1대", "고추장 3큰술", "고춧가루 1큰술", "설탕 2큰술", "물엿 1큰술", "멸치 육수 500ml"],
         instructions: [
@@ -122,7 +122,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "1시간 30분",
         calories: "700 kcal",
-        image: "https://loremflickr.com/800/600/galbijjim",
+        image: "https://loremflickr.com/800/600/galbijjim/all",
         description: "부드러운 소갈비에 단짠 양념이 배어든 최고의 밥도둑.",
         ingredients: ["소갈비 1kg", "무 1/4개", "당근 1개", "표고버섯 4개", "밤 5개", "진간장", "배즙", "다진 마늘", "설탕", "참기름"],
         instructions: [
@@ -145,7 +145,7 @@ const koreanRecipes = [
         mood: ["healthy", "energetic"],
         time: "1시간",
         calories: "650 kcal",
-        image: "https://loremflickr.com/800/600/samgyetang",
+        image: "https://loremflickr.com/800/600/samgyetang/all",
         description: "여름철 원기 회복을 위한 진한 국물의 닭 요리.",
         ingredients: ["영계 1마리", "불린 찹쌀 1/2컵", "인삼 1뿌리", "대추 5알", "마늘 10쪽", "한약재 티백 1개", "대파 1대"],
         instructions: [
@@ -168,7 +168,7 @@ const koreanRecipes = [
         mood: ["comfort", "healthy"],
         time: "25분",
         calories: "300 kcal",
-        image: "https://loremflickr.com/800/600/doenjangjjigae",
+        image: "https://loremflickr.com/800/600/doenjangjjigae/all",
         description: "구수한 된장 국물에 두부와 호박이 들어간 가정식 백반의 정석.",
         ingredients: ["된장 2큰술", "애호박 1/2개", "두부 1/2모", "양파 1/2개", "팽이버섯", "멸치 육수 3컵", "대파", "청양고추"],
         instructions: [
@@ -190,7 +190,7 @@ const koreanRecipes = [
         mood: ["energetic", "adventure"],
         time: "40분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/gimbap",
+        image: "https://loremflickr.com/800/600/gimbap/all",
         description: "다양한 재료를 밥과 김으로 말아낸 간편하고 든든한 한 끼.",
         ingredients: ["김밥김", "고슬고슬한 밥", "단무지", "김밥용 햄", "달걀 지단", "시금치", "당근", "참기름", "소금", "깨"],
         instructions: [
@@ -213,7 +213,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "20분",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/sundubu",
+        image: "https://loremflickr.com/800/600/sundubu/all",
         description: "부드러운 순두부와 얼큰한 국물이 일품인 찌개.",
         ingredients: ["순두부 1봉", "바지락 1봉", "달걀 1개", "대파 1대", "양파 1/4개", "고추기름 2큰술", "다진 마늘 1큰술", "국간장 1큰술", "고춧가루 1큰술"],
         instructions: [
@@ -235,7 +235,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "1시간",
         calories: "750 kcal",
-        image: "https://loremflickr.com/800/600/bossam",
+        image: "https://loremflickr.com/800/600/bossam/all",
         description: "부드럽게 삶아낸 돼지고기를 김치와 쌈에 싸 먹는 요리.",
         ingredients: ["돼지고기 수육용(삼겹/목살) 1kg", "된장 2큰술", "통마늘 10개", "대파 2대", "통후추 1큰술", "월계수잎 3장", "양파 1개", "커피가루 약간"],
         instructions: [
@@ -258,7 +258,7 @@ const koreanRecipes = [
         mood: ["adventure", "energetic"],
         time: "40분",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/dakgalbi",
+        image: "https://loremflickr.com/800/600/dakgalbi/all",
         description: "매콤한 양념에 닭고기와 양배추, 고구마를 볶아 먹는 철판 요리.",
         ingredients: ["닭다리살 500g", "양배추 1/4통", "고구마 1개", "떡볶이 떡 한 줌", "깻잎 10장", "고추장", "고춧가루", "간장", "설탕", "카레카루"],
         instructions: [
@@ -281,7 +281,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/pajeon",
+        image: "https://loremflickr.com/800/600/pajeon/all",
         description: "비 오는 날 생각나는 오징어와 새우가 듬뿍 들어간 파전.",
         ingredients: ["쪽파 1단", "오징어 1마리", "새우살 한 줌", "부침가루 2컵", "튀김가루 1/2컵", "달걀 2개", "식용유", "홍고추"],
         instructions: [
@@ -304,7 +304,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "700 kcal",
-        image: "https://loremflickr.com/800/600/jajangmyeon,noodles",
+        image: "https://loremflickr.com/800/600/jajangmyeon/all",
         description: "고소한 춘장에 돼지고기와 양파를 볶아 면에 비벼 먹는 중식 요리.",
         ingredients: ["중화면 또는 칼국수면", "춘장 4큰술", "돼지고기 등심 200g", "양파 2개", "양배추 1/6통", "대파", "설탕", "간장", "전분물"],
         instructions: [
@@ -327,7 +327,7 @@ const koreanRecipes = [
         mood: ["adventure", "energetic"],
         time: "40분",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/jjamppong",
+        image: "https://loremflickr.com/800/600/jjamppong/all",
         description: "각종 해산물과 채소로 국물을 낸 얼큰하고 시원한 국물 요리.",
         ingredients: ["중화면", "오징어", "홍합", "새우", "배추", "양파", "당근", "목이었다", "고춧가루", "다진 마늘", "파", "돼지고기"],
         instructions: [
@@ -349,7 +349,7 @@ const koreanRecipes = [
         mood: ["comfort", "healthy"],
         time: "20분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/dumpling,soup",
+        image: "https://loremflickr.com/800/600/dumpling,soup/all",
         description: "진한 사골 육수에 왕만두를 넣어 끓인 든든한 한 그릇.",
         ingredients: ["왕만두 5개", "시판 사골 육수 500ml", "달걀 1개", "대파 1/2대", "김가루", "소금", "후추"],
         instructions: [
@@ -371,7 +371,7 @@ const koreanRecipes = [
         mood: ["healthy"],
         time: "20분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/kongguksu",
+        image: "https://loremflickr.com/800/600/kongguksu/all",
         description: "진하게 갈아 만든 콩물에 국수를 말아 먹는 여름 별미.",
         ingredients: ["소면 2인분", "콩물 500ml (또는 두부 1모 + 두유 2팩 + 견과류)", "오이 1/3개", "방울토마토 2개", "검은깨", "소금"],
         instructions: [
@@ -394,7 +394,7 @@ const koreanRecipes = [
         mood: ["healthy", "comfort"],
         time: "5시간 이상",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/seolleongtang",
+        image: "https://loremflickr.com/800/600/seolleongtang/all",
         description: "소뼈를 오랫동안 고아 만든 뽀얗고 담백한 보양식.",
         ingredients: ["사골 국물 (시판 또는 직접 우린 것)", "양지머리 수육", "소면 한 줌", "대파 듬뿍", "소금", "후추", "깍두기"],
         instructions: [
@@ -417,7 +417,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "2시간",
         calories: "700 kcal",
-        image: "https://loremflickr.com/800/600/gamjatang",
+        image: "https://loremflickr.com/800/600/gamjatang/all",
         description: "돼지 등뼈와 우거지, 감자를 넣고 들깨가루로 맛을 낸 진한 탕.",
         ingredients: ["돼지 등뼈 1kg", "감자 3개", "우거지 200g", "깻잎 10장", "들깨가루 3큰술", "된장", "고춧가루", "다진 마늘", "생강"],
         instructions: [
@@ -439,7 +439,7 @@ const koreanRecipes = [
         mood: ["healthy", "comfort"],
         time: "30분",
         calories: "250 kcal",
-        image: "https://loremflickr.com/800/600/pumpkin,porridge",
+        image: "https://loremflickr.com/800/600/pumpkin,porridge/all",
         description: "늙은 호박과 찹쌀을 갈아 쑨 달콤하고 부드러운 죽.",
         ingredients: ["늙은 호박 500g", "찹쌀가루 1컵", "물 4컵", "설탕 3큰술", "소금 1작은술", "삶은 팥 (선택)"],
         instructions: [
@@ -462,7 +462,7 @@ const koreanRecipes = [
         mood: ["adventure", "comfort"],
         time: "50분",
         calories: "650 kcal",
-        image: "https://loremflickr.com/800/600/jimdak",
+        image: "https://loremflickr.com/800/600/jimdak/all",
         description: "짭짤하고 달콤한 간장 소스에 닭고기, 채소, 당면을 함께 졸여낸 요리.",
         ingredients: ["닭 1마리", "감자 2개", "당근 1/2개", "양파 1개", "건고추 2개", "당면 한 줌", "진간장", "설탕", "올리고당", "다진 마늘", "카라멜 소스(선택)"],
         instructions: [
@@ -484,7 +484,7 @@ const koreanRecipes = [
         mood: ["adventure", "energetic"],
         time: "15분",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/yukhoe",
+        image: "https://loremflickr.com/800/600/yukhoe/all",
         description: "신선한 소고기 우둔살을 얇게 채 썰어 배와 함께 양념에 무쳐 먹는 음식.",
         ingredients: ["소고기 육회용(우둔살/홍두깨살) 300g", "배 1/2개", "달걀 노른자 1개", "진간장 2큰술", "설탕 1큰술", "참기름 2큰술", "다진 마늘 1작은술", "깨", "잣"],
         instructions: [
@@ -507,7 +507,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "30분",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/budaejjigae",
+        image: "https://loremflickr.com/800/600/budaejjigae/all",
         description: "김치와 함께 햄, 소시지, 라면 등을 넣고 얼큰하게 끓인 퓨전 찌개.",
         ingredients: ["스팸 1통", "프랑크 소시지 3개", "김치 1/2컵", "두부 1/2모", "베이크드 빈스 2큰술", "라면사리 1개", "체다 치즈 1장", "사골 육수", "대파"],
         instructions: [
@@ -530,7 +530,7 @@ const koreanRecipes = [
         mood: ["comfort", "adventure"],
         time: "25분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/tofu,stew",
+        image: "https://loremflickr.com/800/600/tofu,stew/all",
         description: "각종 해물과 부드러운 순두부가 어우러진 얼큰한 찌개.",
         ingredients: ["순두부 1봉", "새우 3마리", "오징어 1/2마리", "바지락 1봉", "달걀 1개", "고추기름", "대파", "다진 마늘", "고춧가루"],
         instructions: [
@@ -552,7 +552,7 @@ const koreanRecipes = [
         mood: ["comfort", "energetic"],
         time: "50분",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/dakbokkeumtang",
+        image: "https://loremflickr.com/800/600/dakbokkeumtang/all",
         description: "매콤한 양념에 닭고기와 감자, 당근을 넣고 졸여낸 밥도둑 메뉴.",
         ingredients: ["닭 1마리", "감자 2개", "당근 1개", "양파 1개", "대파 1대", "고추장 3큰술", "고춧가루 2큰술", "진간장 3큰술", "설탕 2큰술", "다진 마늘 1큰술"],
         instructions: [
@@ -575,7 +575,7 @@ const koreanRecipes = [
         mood: ["adventure"],
         time: "3일 (숙성 시간 포함)",
         calories: "300 kcal",
-        image: "https://loremflickr.com/800/600/soy,crab",
+        image: "https://loremflickr.com/800/600/soy,crab/all",
         description: "신선한 꽃게를 달인 간장에 숙성시켜 만든 최고의 밥도둑.",
         ingredients: ["꽃게 1kg (암게 추천)", "진간장 2컵", "물 3컵", "설탕/매실액", "생강 1톨", "마늘 10쪽", "청양고추 5개", "사과 1/2개", "양파 1/2개", "통후추", "다시마"],
         instructions: [
@@ -597,7 +597,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "40분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/sujebi",
+        image: "https://loremflickr.com/800/600/sujebi/all",
         description: "멸치 육수에 얇게 뜬 밀가루 반죽과 감자를 넣고 끓인 따뜻한 국물 요리.",
         ingredients: ["밀가루 2컵", "물", "식용유 1큰술", "소금", "감자 1개", "애호박 1/3개", "멸치 육수", "대파", "국간장"],
         instructions: [
@@ -619,7 +619,7 @@ const koreanRecipes = [
         mood: ["comfort"],
         time: "35분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/kalguksu",
+        image: "https://loremflickr.com/800/600/kalguksu/all",
         description: "진한 국물에 직접 민 칼국수 면을 넣고 끓여낸 든든한 한 끼.",
         ingredients: ["칼국수 면", "애호박 1/3개", "바지락 1봉", "멸치 육수", "국간장", "다진 마늘", "대파", "김가루"],
         instructions: [
@@ -642,7 +642,7 @@ const koreanRecipes = [
         mood: ["adventure", "energetic"],
         time: "20분",
         calories: "380 kcal",
-        image: "https://loremflickr.com/800/600/spicy,squid",
+        image: "https://loremflickr.com/800/600/spicy,squid/all",
         description: "매콤한 양념에 쫄깃한 오징어와 아삭한 채소를 함께 볶아낸 요리.",
         ingredients: ["오징어 2마리", "양파 1개", "양배추 1/8통", "당근 1/4개", "대파 1대", "고추장 2큰술", "고춧가루 3큰술", "간장 2큰술", "설탕 1큰술", "다진 마늘"],
         instructions: [
@@ -665,7 +665,7 @@ const koreanRecipes = [
         mood: ["energetic"],
         time: "25분",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/spicy,pork",
+        image: "https://loremflickr.com/800/600/spicy,pork/all",
         description: "돼지고기 앞다리살을 매콤한 고추장 양념에 재워 볶아낸 대중적인 한식.",
         ingredients: ["돼지고기 앞다리살/뒷다리살 600g", "양파 1개", "대파 1대", "당근 1/4개", "고추장 2큰술", "고춧가루 2큰술", "간장 2큰술", "설탕 1큰술", "다진 마늘 1큰술", "맛술"],
         instructions: [
