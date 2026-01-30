@@ -9,11 +9,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const recipeGrid = document.getElementById('recipe-grid');
     const filterBtns = document.querySelectorAll('.filter-btn');
 
+    const allRecipes = [...koreanRecipes, ...japaneseRecipes, ...italianRecipes, ...mexicanRecipes];
+
     // State
     let currentFilter = 'all';
 
     // --- Init ---
-    renderRecipes(recipes);
+    renderRecipes(allRecipes);
 
     // --- Event Listeners ---
 
@@ -43,8 +45,8 @@ document.addEventListener('DOMContentLoaded', () => {
             // Filter
             currentFilter = btn.dataset.filter;
             const filtered = currentFilter === 'all'
-                ? recipes
-                : recipes.filter(r => r.category === currentFilter);
+                ? allRecipes
+                : allRecipes.filter(r => r.category === currentFilter);
 
             renderRecipes(filtered);
         });
@@ -71,10 +73,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function recommendFood(mood) {
         // Filter recipes by mood tag
-        const matchingRecipes = recipes.filter(r => r.mood.includes(mood));
+        const matchingRecipes = allRecipes.filter(r => r.mood.includes(mood));
 
         // Fallback if no specific match
-        const candidates = matchingRecipes.length > 0 ? matchingRecipes : recipes;
+        const candidates = matchingRecipes.length > 0 ? matchingRecipes : allRecipes;
 
         // Random pick
         const randomRecipe = candidates[Math.floor(Math.random() * candidates.length)];

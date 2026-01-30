@@ -1,12 +1,13 @@
 document.addEventListener('DOMContentLoaded', () => {
     const recipeDetailsContainer = document.getElementById('recipe-details');
+    const allRecipes = [...koreanRecipes, ...japaneseRecipes, ...italianRecipes, ...mexicanRecipes];
 
     // Get recipe ID from URL
     const urlParams = new URLSearchParams(window.location.search);
     const recipeId = parseInt(urlParams.get('id'));
 
     // Find the recipe
-    const recipe = recipes.find(r => r.id === recipeId);
+    const recipe = allRecipes.find(r => r.id === recipeId);
 
     if (recipe) {
         // Set the page title
