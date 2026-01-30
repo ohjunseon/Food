@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>레시피 상세 - GourmetFlow</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header id="main-header">
+            <div class="container header-content">
+                <a href="index.html" class="logo">
+                    <div class="logo-icon">
+                        <i data-lucide="utensils-crossed"></i>
+                    </div>
+                    <span>Gourmet<span class="highlight">Flow</span></span>
+                </a>
+
+                <nav class="desktop-nav">
+                    <a href="index.html#home">홈</a>
+                    <a href="index.html#recommend">메뉴 추천</a>
+                    <a href="index.html#recipes">레시피</a>
+                    <a href="index.html#about">소개</a>
+                </nav>
+
+                <div class="header-actions">
+                    <a href="index.html#recommend" class="btn btn-primary btn-sm">시작하기</a>
+                    <button class="mobile-toggle" aria-label="메뉴 열기">
+                        <i data-lucide="menu"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Mobile Menu -->
+            <div class="mobile-menu">
+                <a href="index.html#home">홈</a>
+                <a href="index.html#recommend">메뉴 추천</a>
+                <a href="index.html#recipes">레시피</a>
+                <a href="index.html#about">소개</a>
+            </div>
+        </header>
+
+        <main>
+            <section id="recipe-details" class="container" style="padding-top: 120px; padding-bottom: 60px;">
+                <!-- Recipe content will be injected here by recipe.js -->
+            </section>
+        </main>
+
+        <footer>
+            <div class="container">
+                <div class="footer-content">
+                    <div class="footer-logo">GourmetFlow</div>
+                    <p>&copy; 2026 GourmetFlow. 요리를 사랑하는 마음으로 만들었습니다.</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="recipe.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+
+</html>

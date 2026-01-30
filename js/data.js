@@ -312,5 +312,41 @@ const recipes = [
         description: "늙은 호박과 찹쌀을 갈아 쑨 달콤하고 부드러운 죽.",
         ingredients: ["늙은 호박", "찹쌀가루", "설탕", "소금", "팥 (선택사항)"],
         instructions: ["호박은 껍질을 벗겨 삶은 뒤 으깹니다.", "으깬 호박에 물을 붓고 끓이다 찹쌀물로 농도를 맞춥니다.", "설탕과 소금으로 간을 합니다."]
+    },
+    {
+        id: 27,
+        title: "안동 찜닭",
+        category: "dinner",
+        mood: ["adventure", "comfort"],
+        time: "50분",
+        calories: "650 kcal",
+        image: "https://images.unsplash.com/photo-1626081363262-65b066a5a413?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        description: "짭짤하고 달콤한 간장 소스에 닭고기, 채소, 당면을 함께 졸여낸 요리.",
+        ingredients: ["닭 1마리", "감자", "당근", "건고추", "당면", "간장", "설탕", "다진 마늘"],
+        instructions: ["닭을 한 번 데쳐 불순물을 제거합니다.", "물과 양념장, 닭, 채소를 넣고 끓입니다.", "닭이 익으면 불린 당면을 넣고 국물이 자작해질 때까지 졸입니다."]
+    },
+    {
+        id: 28,
+        title: "육회",
+        category: "dinner",
+        mood: ["adventure", "energetic"],
+        time: "15분",
+        calories: "350 kcal",
+        image: "https://images.unsplash.com/photo-1515933692209-a9c6b6d156b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        description: "신선한 소고기 우둔살을 얇게 채 썰어 배와 함께 양념에 무쳐 먹는 음식.",
+        ingredients: ["소고기 우둔살 300g", "배 1/2개", "달걀 노른자", "간장", "설탕", "참기름", "다진 마늘"],
+        instructions: ["소고기는 핏물을 제거하고 얇게 채 썹니다.", "배도 같은 길이로 채 썹니다.", "양념장 재료를 섞어 소고기와 가볍게 버무립니다.", "배와 함께 접시에 담고 달걀 노른자를 올립니다."]
+    },
+    {
+        id: 29,
+        title: "부대찌개",
+        category: "dinner",
+        mood: ["comfort", "adventure"],
+        time: "30분",
+        calories: "550 kcal",
+        image: "https://images.unsplash.com/photo-1604503468724-38c641c8c122?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        description: "김치와 함께 햄, 소시지, 라면 등을 넣고 얼큰하게 끓인 퓨전 찌개.",
+        ingredients: ["햄", "소시지", "김치", "두부", "베이크드 빈스", "라면사리", "치즈", "고추장 양념"],
+        instructions: ["전골 냄비에 재료를 보기 좋게 돌려 담습니다.", "양념장과 육수를 넣고 끓입니다.", "재료가 익으면 라면사리와 치즈를 넣고 한소끔 더 끓여 완성합니다."]
     }
 ];

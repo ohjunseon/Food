@@ -7,9 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const mobileToggle = document.querySelector('.mobile-toggle');
     const mobileMenu = document.querySelector('.mobile-menu');
     const recipeGrid = document.getElementById('recipe-grid');
-    const modalOverlay = document.getElementById('recipe-modal');
-    const modalBody = document.getElementById('modal-body');
-    const closeModalBtn = document.querySelector('.close-modal');
     const filterBtns = document.querySelectorAll('.filter-btn');
 
     // State
@@ -108,52 +105,10 @@ document.addEventListener('DOMContentLoaded', () => {
         lucide.createIcons(); // Re-init icons for new content
     }
 
-    // Modal Logic
+    // Recipe page navigation
     window.openRecipe = (id) => {
-        const recipe = recipes.find(r => r.id === id);
-        if (!recipe) return;
-
-        modalBody.innerHTML = `
-            <div class="modal-header">
-                <h2>${recipe.title}</h2>
-                <div class="modal-tags">
-                    <span class="tag">${recipe.category === 'breakfast' ? '아침' : recipe.category === 'lunch' ? '점심' : recipe.category === 'dinner' ? '저녁' : recipe.category}</span>
-                    <span class="tag">${recipe.time}</span>
-                </div>
-            </div>
-            <img src="${recipe.image}" alt="${recipe.title}" class="modal-img">
-            
-            <div class="modal-details">
-                <div class="section">
-                    <h3>재료</h3>
-                    <ul>
-                        ${recipe.ingredients.map(ing => `<li>${ing}</li>`).join('')}
-                    </ul>
-                </div>
-                <div class="section">
-                    <h3>조리법</h3>
-                    <ol>
-                        ${recipe.instructions.map(step => `<li>${step}</li>`).join('')}
-                    </ol>
-                </div>
-            </div>
-        `;
-
-        modalOverlay.classList.remove('hidden');
-        document.body.style.overflow = 'hidden'; // Stop background scroll
+        window.location.href = `recipe.html?id=${id}`;
     };
-
-    closeModalBtn.addEventListener('click', () => {
-        modalOverlay.classList.add('hidden');
-        document.body.style.overflow = '';
-    });
-
-    modalOverlay.addEventListener('click', (e) => {
-        if (e.target === modalOverlay) {
-            modalOverlay.classList.add('hidden');
-            document.body.style.overflow = '';
-        }
-    });
 
     // --- Rendering Helpers ---
     function renderRecipes(list) {
