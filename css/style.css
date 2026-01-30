@@ -1,8 +1,9 @@
 /* Google Fonts Import */
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@300;400;500;600;700&display=swap');
 
-:root {
-    /* Color Palette - Warm & Premium */
+:root,
+[data-theme="light"] {
+    /* Color Palette - Light Mode */
     --primary: #FF7E5F;
     --primary-dark: #E66649;
     --secondary: #FEB47B;
@@ -11,6 +12,7 @@
     --text-muted: #636E72;
     --bg-body: #FAFAFA;
     --bg-surface: #FFFFFF;
+    --border-color: rgba(0, 0, 0, 0.1);
 
     /* Gradients */
     --gradient-main: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
@@ -35,6 +37,22 @@
     --radius-sm: 8px;
 }
 
+[data-theme="dark"] {
+    --primary: #FF7E5F;
+    --primary-dark: #E66649;
+    --secondary: #FEB47B;
+    --accent: #FF512F;
+    --text-main: #EAEAEA;
+    --text-muted: #B0B0B0;
+    --bg-body: #121212;
+    --bg-surface: #1E1E1E;
+    --border-color: rgba(255, 255, 255, 0.15);
+
+    --shadow-sm: 0 4px 6px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.3);
+    --shadow-float: 0 20px 40px rgba(255, 126, 95, 0.15);
+}
+
 /* Reset & Base */
 * {
     margin: 0;
@@ -52,6 +70,7 @@ body {
     color: var(--text-main);
     line-height: 1.6;
     overflow-x: hidden;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 h1,
@@ -82,6 +101,7 @@ button {
     border: none;
     cursor: pointer;
     background: none;
+    color: inherit;
 }
 
 /* Utilities */
@@ -144,7 +164,7 @@ button {
 }
 
 .btn-outline {
-    border: 2px solid rgba(0, 0, 0, 0.1);
+    border: 2px solid var(--border-color);
     color: var(--text-main);
 }
 
@@ -166,11 +186,15 @@ header {
 }
 
 header.scrolled {
-    background: rgba(255, 255, 255, 0.8);
+    background: var(--bg-surface-translucent, rgba(255, 255, 255, 0.8));
     backdrop-filter: blur(10px);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    border-bottom: 1px solid var(--border-color);
     padding: 1rem 0;
     box-shadow: var(--shadow-sm);
+}
+
+[data-theme="dark"] header.scrolled {
+    --bg-surface-translucent: rgba(30, 30, 30, 0.8);
 }
 
 .header-content {
@@ -239,6 +263,18 @@ header.scrolled {
     gap: 1rem;
 }
 
+#theme-toggle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-sm);
+}
+
 .mobile-toggle {
     display: none;
     font-size: 1.5rem;
@@ -251,12 +287,12 @@ header.scrolled {
     top: 100%;
     left: 0;
     width: 100%;
-    background: white;
+    background: var(--bg-surface);
     padding: 1rem;
     flex-direction: column;
     gap: 1rem;
     box-shadow: var(--shadow-md);
-    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    border-top: 1px solid var(--border-color);
 }
 
 .mobile-menu.active {
@@ -302,6 +338,19 @@ header.scrolled {
     bottom: -50px;
     left: -50px;
 }
+
+[data-theme="dark"] .hero-bg-blob {
+    opacity: 0.15;
+}
+
+[data-theme="dark"] .blob-1 {
+    background: var(--primary);
+}
+
+[data-theme="dark"] .blob-2 {
+    background: var(--secondary);
+}
+
 
 .hero-container {
     display: grid;
@@ -354,7 +403,7 @@ header.scrolled {
 .divider {
     width: 1px;
     height: 40px;
-    background: #DDD;
+    background: var(--border-color);
 }
 
 .stat-item strong {
@@ -391,7 +440,7 @@ header.scrolled {
     position: absolute;
     bottom: 30px;
     left: -30px;
-    background: white;
+    background: var(--bg-surface);
     padding: 1rem;
     border-radius: var(--radius-md);
     box-shadow: var(--shadow-md);
@@ -399,6 +448,7 @@ header.scrolled {
     align-items: center;
     gap: 1rem;
     animation: float 4s ease-in-out infinite;
+    border: 1px solid var(--border-color);
 }
 
 .card-icon {
@@ -412,10 +462,14 @@ header.scrolled {
     justify-content: center;
 }
 
+[data-theme="dark"] .card-icon {
+    background: rgba(255, 126, 95, 0.1);
+}
+
 /* Recommendation Section */
 .recommendation-section {
     padding: 100px 0;
-    background: white;
+    background: var(--bg-surface);
 }
 
 .recommendation-engine {
@@ -447,7 +501,7 @@ header.scrolled {
     transform: translateY(-5px);
     box-shadow: var(--shadow-md);
     border-color: var(--primary);
-    background: white;
+    background: var(--bg-surface);
 }
 
 .option-card .emoji {
@@ -511,9 +565,10 @@ header.scrolled {
 .filter-btn {
     padding: 10px 24px;
     border-radius: 50px;
-    background: white;
+    background: var(--bg-surface);
     font-weight: 500;
     transition: all 0.3s;
+    border: 1px solid var(--border-color);
 }
 
 .filter-btn.active,
@@ -521,6 +576,7 @@ header.scrolled {
     background: var(--primary);
     color: white;
     box-shadow: 0 4px 10px rgba(255, 126, 95, 0.3);
+    border-color: var(--primary);
 }
 
 .recipe-grid {
@@ -530,17 +586,19 @@ header.scrolled {
 }
 
 .recipe-card {
-    background: white;
+    background: var(--bg-surface);
     border-radius: var(--radius-md);
     overflow: hidden;
     box-shadow: var(--shadow-sm);
     transition: all 0.3s;
     cursor: pointer;
+    border: 1px solid var(--border-color);
 }
 
 .recipe-card:hover {
     transform: translateY(-10px);
     box-shadow: var(--shadow-md);
+    border-color: var(--primary);
 }
 
 .card-img {
@@ -564,13 +622,14 @@ header.scrolled {
     position: absolute;
     top: 15px;
     left: 15px;
-    background: rgba(255, 255, 255, 0.9);
+    background: var(--bg-surface);
     padding: 4px 12px;
     border-radius: 20px;
     font-size: 0.8rem;
     font-weight: 600;
     color: var(--text-main);
     text-transform: capitalize;
+    border: 1px solid var(--border-color);
 }
 
 .card-info {
@@ -618,7 +677,7 @@ header.scrolled {
 }
 
 .modal-content {
-    background: white;
+    background: var(--bg-surface);
     width: 90%;
     max-width: 800px;
     max-height: 90vh;
@@ -634,7 +693,7 @@ header.scrolled {
     position: absolute;
     top: 1.5rem;
     right: 1.5rem;
-    background: #f1f1f1;
+    background: var(--bg-body);
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -642,10 +701,15 @@ header.scrolled {
     align-items: center;
     justify-content: center;
     transition: background 0.2s;
+    border: 1px solid var(--border-color);
 }
 
 .close-modal:hover {
     background: #e1e1e1;
+}
+
+[data-theme="dark"] .close-modal:hover {
+    background: #333;
 }
 
 .modal-header h2 {
@@ -666,6 +730,10 @@ header.scrolled {
     border-radius: 20px;
     font-weight: 600;
     font-size: 0.9rem;
+}
+
+[data-theme="dark"] .tag {
+    background: rgba(255, 126, 95, 0.1);
 }
 
 .modal-img {
@@ -752,7 +820,7 @@ header.scrolled {
 @media (max-width: 768px) {
 
     .desktop-nav,
-    .header-actions .btn {
+    .header-actions .btn-primary {
         display: none;
     }
 
