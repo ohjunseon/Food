@@ -7,7 +7,7 @@ const mexicanRecipes = [
         mood: ["adventure", "energetic"],
         time: "30분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/tacos/all",
+        image: "https://loremflickr.com/800/600/타코/all",
         description: "또띠아에 다양한 속재료를 넣어 먹는 멕시코의 가장 상징적인 요리입니다.",
         ingredients: ["옥수수 또띠아 6장", "다진 쇠고기 300g", "타코 시즈닝", "양파 1/2개", "토마토 1개", "양상추", "체다 치즈", "사워크림", "라임"],
         instructions: [
@@ -30,7 +30,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "45분",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/enchiladas/all",
+        image: "https://loremflickr.com/800/600/엔칠라다/all",
         description: "속을 채운 옥수수 또띠아를 말아 소스를 뿌리고 치즈를 얹어 구워낸 요리입니다.",
         ingredients: ["또띠아 4장", "닭가슴살 2조각", "엔칠라다 소스 1캔", "슈레드 치즈 1컵", "양파", "올리브", "고수"],
         instructions: [
@@ -53,7 +53,7 @@ const mexicanRecipes = [
         mood: ["healthy"],
         time: "15분",
         calories: "250 kcal",
-        image: "https://loremflickr.com/800/600/guacamole/all",
+        image: "https://loremflickr.com/800/600/과카몰리/all",
         description: "아보카도를 으깨어 양파, 토마토, 고수, 라임즙 등을 섞어 만든 딥입니다. 나초 칩과 함께 먹습니다.",
         ingredients: ["잘 익은 아보카도 2개", "양파 1/4개", "방울토마토 5개", "고수 1줄기", "라임 1/2개", "소금", "후추", "할라피뇨(선택)"],
         instructions: [
@@ -76,7 +76,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "25분",
         calories: "700 kcal",
-        image: "https://loremflickr.com/800/600/burrito/all",
+        image: "https://loremflickr.com/800/600/부리토/all",
         description: "큰 밀가루 또띠아에 밥, 콩, 고기, 치즈, 살사 등 다양한 재료를 넣고 감싼 푸짐한 식사입니다.",
         ingredients: ["대형 또띠아 2장", "밥 1공기", "검은콩(통조림)", "다진 고기 볶음", "양상추", "체다 치즈", "살사", "사워크림"],
         instructions: [
@@ -98,7 +98,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "15분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/quesadilla/all",
+        image: "https://loremflickr.com/800/600/퀘사디아/all",
         description: "또띠아에 치즈와 다른 재료들을 넣고 반으로 접어 치즈가 녹을 때까지 구운 요리입니다.",
         ingredients: ["또띠아 2장", "모차렐라 치즈 1컵", "닭고기 또는 버섯", "피망", "양파", "버터"],
         instructions: [
@@ -121,7 +121,7 @@ const mexicanRecipes = [
         mood: ["comfort", "energetic"],
         time: "20분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/chilaquiles/all",
+        image: "https://loremflickr.com/800/600/칠라킬레스/all",
         description: "튀긴 또띠아 조각을 살사 소스에 적셔 닭고기, 치즈, 계란 등을 얹어 먹는 멕시코의 아침 식사입니다.",
         ingredients: ["또띠아 칩 200g", "살사 로하(빨간 소스) 또는 베르데(초록 소스) 1컵", "닭가슴살(선택)", "달걀 2개", "페타 치즈", "양파", "고수"],
         instructions: [
@@ -143,7 +143,7 @@ const mexicanRecipes = [
         mood: ["comfort", "healthy"],
         time: "3시간",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/pozole/all",
+        image: "https://loremflickr.com/800/600/포솔레/all",
         description: "호미니(옥수수)와 돼지고기를 넣고 푹 끓인 멕시코의 전통적인 수프입니다. 축제 때 즐겨 먹습니다.",
         ingredients: ["돼지고기(어깨살) 500g", "호미니(옥수수 캔) 1캔", "건고추 3개", "양파 1개", "마늘", "양배추", "래디시", "라임"],
         instructions: [
@@ -165,7 +165,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "2시간",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/tamales/all",
+        image: "https://loremflickr.com/800/600/타말레/all",
         description: "옥수수 반죽(마사)에 고기나 치즈 등의 소를 넣고 옥수수 껍질에 싸서 찐 음식입니다.",
         ingredients: ["마사 하리나(옥수수 가루) 2컵", "닭 육수", "라드/식용유", "익힌 닭고기", "살사", "옥수수 껍질(불린 것)"],
         instructions: [
@@ -188,7 +188,7 @@ const mexicanRecipes = [
         mood: ["comfort", "energetic"],
         time: "4시간",
         calories: "650 kcal",
-        image: "https://loremflickr.com/800/600/carnitas/all",
+        image: "https://loremflickr.com/800/600/카르니타스/all",
         description: "돼지고기를 라드나 기름에 넣고 몇 시간 동안 천천히 익혀 매우 부드럽고 촉촉하게 만든 요리입니다. 타코나 부리토에 넣어 먹습니다.",
         ingredients: ["돼지고기 앞다리살 1kg", "오렌지 1개", "양파 1개", "마늘", "월계수잎", "콜라 1/2컵(연육)", "소금", "라드/식용유"],
         instructions: [
@@ -210,7 +210,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "2시간",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/mole,sauce/all",
+        image: "https://loremflickr.com/800/600/몰레/all",
         description: "다양한 종류의 고추, 향신료, 견과류, 때로는 초콜릿까지 수십 가지 재료를 넣어 만든 복합적이고 풍부한 맛의 소스입니다.",
         ingredients: ["건고추 3종", "토마토", "양파", "마늘", "아몬드", "건포도", "계피", "다크 초콜릿", "닭고기"],
         instructions: [
@@ -233,7 +233,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "15분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/huevos,rancheros/all",
+        image: "https://loremflickr.com/800/600/우에보스,란체로스/all",
         description: "튀기거나 살짝 구운 또띠아 위에 계란 프라이를 올리고 살사 소스를 얹어 먹는 멕시코의 아침 식사입니다.",
         ingredients: ["옥수수 또띠아 2장", "달걀 2개", "살사 소스", "리프라이드 빈(으깬 콩)", "아보카도", "고수"],
         instructions: [
@@ -255,7 +255,7 @@ const mexicanRecipes = [
         mood: ["healthy", "adventure"],
         time: "20분 (재우는 시간 제외)",
         calories: "300 kcal",
-        image: "https://loremflickr.com/800/600/ceviche/all",
+        image: "https://loremflickr.com/800/600/세비체/all",
         description: "신선한 생선이나 해산물을 라임즙에 재워 '익힌' 후 양파, 토마토, 고수 등과 섞어 차갑게 먹는 요리입니다.",
         ingredients: ["흰살 생선(광어/도미) 또는 새우 200g", "라임 3-4개", "적양파 1/2개", "토마토 1개", "고수", "청양고추", "소금"],
         instructions: [
@@ -278,7 +278,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "30분",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/fajita/all",
+        image: "https://loremflickr.com/800/600/파히타/all",
         description: "구운 고기(주로 쇠고기나 닭고기)와 볶은 피망, 양파를 또띠아에 싸서 먹는 요리입니다.",
         ingredients: ["소고기(안창살/치마살) 300g", "파프리카 2개(색깔별로)", "양파 1개", "또띠아", "파히타 시즈닝", "사워크림, 살사, 과카몰리"],
         instructions: [
@@ -301,7 +301,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "25분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/flautas/all",
+        image: "https://loremflickr.com/800/600/플라우타스/all",
         description: "닭고기나 쇠고기로 속을 채운 또띠아를 길게 말아 바삭하게 튀겨낸 요리입니다. '작은 플루트'라는 뜻입니다.",
         ingredients: ["옥수수 또띠아 6장", "삶아서 찢은 닭고기", "이쑤시개", "식용유", "양상추", "사워크림", "치즈 가루"],
         instructions: [
@@ -324,7 +324,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "10분",
         calories: "50 kcal",
-        image: "https://loremflickr.com/800/600/salsa,sauce/all",
+        image: "https://loremflickr.com/800/600/살사/all",
         description: "토마토, 양파, 고추, 고수를 기본으로 하는 멕시코 요리의 필수적인 소스입니다.",
         ingredients: ["완숙 토마토 3개", "양파 1/2개", "청양고추/할라피뇨 2개", "고수 한 줌", "라임 1개", "소금"],
         instructions: [
@@ -346,7 +346,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "1시간 30분",
         calories: "700 kcal",
-        image: "https://loremflickr.com/800/600/chiles,en,nogada/all",
+        image: "https://loremflickr.com/800/600/칠레스,엔,노가다/all",
         description: "다진 고기와 과일로 속을 채운 포블라노 고추에 호두 크림 소스를 붓고 석류를 장식한 요리입니다.",
         ingredients: ["포블라노 고추(또는 큰 피망) 4개", "다진 고기", "사과, 배, 복숭아 등 과일", "호두 1컵", "우유/크림", "석류 알", "파슬리"],
         instructions: [
@@ -369,7 +369,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "4시간 이상",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/cochinita,pibil/all",
+        image: "https://loremflickr.com/800/600/코치니타,피빌/all",
         description: "아치오테와 감귤류 즙에 재운 돼지고기를 바나나 잎에 싸서 천천히 구워낸 유카탄 반도 요리입니다.",
         ingredients: ["돼지고기 목살/어깨살 1kg", "아치오테 페이스트", "오렌지즙", "라임즙", "바나나 잎(또는 호일)"],
         instructions: [
@@ -392,7 +392,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "40분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/tortilla,soup/all",
+        image: "https://loremflickr.com/800/600/토르티야,수프/all",
         description: "닭고기 육수에 토마토와 고추로 맛을 내고, 튀긴 또띠아와 아보카도를 곁들여 먹는 수프입니다.",
         ingredients: ["닭 육수", "토마토 캔", "양파", "마늘", "또띠아 칩", "아보카도", "치즈", "라임"],
         instructions: [
@@ -415,7 +415,7 @@ const mexicanRecipes = [
         mood: ["comfort", "energetic"],
         time: "30분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/gorditas/all",
+        image: "https://loremflickr.com/800/600/고르디타스/all",
         description: "두툼한 옥수수 반죽을 구워 반으로 가른 후, 그 안에 고기, 콩, 치즈 등을 채워 먹는 요리입니다.",
         ingredients: ["마사 하리나(옥수수 가루)", "물", "소금", "다진 고기 볶음", "리프라이드 빈", "양상추", "치즈"],
         instructions: [
@@ -437,7 +437,7 @@ const mexicanRecipes = [
         mood: ["energetic"],
         time: "35분",
         calories: "420 kcal",
-        image: "https://loremflickr.com/800/600/sopes/all",
+        image: "https://loremflickr.com/800/600/소페스/all",
         description: "두툼한 옥수수 반죽의 가장자리를 꼬집어 올려 작은 그릇 모양으로 만든 후 토핑을 얹은 요리입니다.",
         ingredients: ["마사 하리나", "리프라이드 빈", "초리소(소시지)", "양상추", "사워크림", "코티하 치즈"],
         instructions: [
@@ -459,7 +459,7 @@ const mexicanRecipes = [
         mood: ["healthy", "energetic"],
         time: "10분",
         calories: "30 kcal",
-        image: "https://loremflickr.com/800/600/pico,de,gallo/all",
+        image: "https://loremflickr.com/800/600/피코,데,가요/all",
         description: "토마토, 양파, 고추, 고수를 잘게 썰어 라임즙과 섞은 신선한 살사입니다.",
         ingredients: ["토마토 2개", "양파 1/2개", "할라피뇨 1개", "고수", "라임즙 2큰술", "소금"],
         instructions: [
@@ -482,7 +482,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "25분",
         calories: "300 kcal",
-        image: "https://loremflickr.com/800/600/churros/all",
+        image: "https://loremflickr.com/800/600/추로스/all",
         description: "반죽을 기름에 튀겨낸 후 설탕과 시나몬을 묻혀 먹는 디저트입니다.",
         ingredients: ["물 1컵", "버터 50g", "설탕 1큰술", "밀가루 1컵", "달걀 1개", "시나몬 설탕", "초콜릿 소스"],
         instructions: [
@@ -505,7 +505,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "1시간 (식히는 시간 제외)",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/tres,leches/all",
+        image: "https://loremflickr.com/800/600/트레스,레체스/all",
         description: "세 가지 우유(연유, 무당연유, 생크림)를 섞은 시럽에 푹 적신 매우 촉촉한 스펀지 케이크입니다.",
         ingredients: ["스펀지 케이크 시트", "연유 1/2캔", "무당연유(Evaporated milk) 1캔", "생크림 1/2컵", "휘핑크림", "과일"],
         instructions: [
@@ -527,7 +527,7 @@ const mexicanRecipes = [
         mood: ["adventure", "energetic"],
         time: "20분",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/elote/all",
+        image: "https://loremflickr.com/800/600/엘로테/all",
         description: "구운 옥수수에 마요네즈, 치즈, 칠리 파우더, 라임즙을 곁들여 먹는 멕시코의 길거리 음식입니다.",
         ingredients: ["옥수수 2개", "마요네즈 4큰술", "코티하 치즈(또는 파마산)", "칠리 파우더(고춧가루)", "라임", "버터"],
         instructions: [
@@ -549,7 +549,7 @@ const mexicanRecipes = [
         mood: ["adventure", "comfort"],
         time: "4시간",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/birria,tacos/all",
+        image: "https://loremflickr.com/800/600/비리아,타코/all",
         description: "고추와 향신료를 넣고 오래 끓인 고기 스튜(비리아)를 넣고, 또띠아를 그 국물에 적셔 구운 타코입니다.",
         ingredients: ["소고기 사태/양지 1kg", "건고추, 마늘, 양파, 향신료", "모차렐라 치즈", "또띠아", "고수", "양파"],
         instructions: [
@@ -571,7 +571,7 @@ const mexicanRecipes = [
         mood: ["adventure", "healthy"],
         time: "15분",
         calories: "280 kcal",
-        image: "https://loremflickr.com/800/600/aguachile/all",
+        image: "https://loremflickr.com/800/600/아구아칠레/all",
         description: "새우를 라임즙과 매운 고추 소스에 재워 먹는 요리입니다. 세비체보다 더 맵고 재우는 시간이 짧습니다.",
         ingredients: ["생새우 10마리", "라임 1컵", "청양고추/세라노 4개", "고수 1단", "오이 1개", "적양파 1/2개"],
         instructions: [
@@ -593,7 +593,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "3시간",
         calories: "800 kcal",
-        image: "https://loremflickr.com/800/600/pork,shank/all",
+        image: "https://loremflickr.com/800/600/차모로스/all",
         description: "돼지 정강이 부위를 다양한 향신료와 함께 부드러워질 때까지 오랫동안 끓이거나 구워낸 요리입니다.",
         ingredients: ["돼지 정강이(족발 윗부분) 2개", "오렌지 주스", "맥주", "양파", "마늘", "오레가노", "커민"],
         instructions: [
@@ -615,7 +615,7 @@ const mexicanRecipes = [
         mood: ["adventure"],
         time: "25분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/spicy,shrimp/all",
+        image: "https://loremflickr.com/800/600/카마로네스,아,라,디아블라/all",
         description: "새우를 매우 매운 고추 소스에 볶아낸 요리입니다. '악마의 새우'라는 뜻을 가지고 있습니다.",
         ingredients: ["새우 300g", "건고추(과히요, 아르볼 등) 5개", "토마토 2개", "마늘 3쪽", "버터", "양파"],
         instructions: [
@@ -637,7 +637,7 @@ const mexicanRecipes = [
         mood: ["comfort"],
         time: "15분 (불리는 시간 제외)",
         calories: "200 kcal",
-        image: "https://loremflickr.com/800/600/horchata/all",
+        image: "https://loremflickr.com/800/600/오르차타/all",
         description: "쌀을 물에 불려 갈아서 설탕과 계피를 넣어 만든 시원하고 달콤한 멕시코의 전통 음료입니다.",
         ingredients: ["쌀 1컵", "물 4컵", "계피 스틱 1개", "설탕 1/2컵", "우유 1/2컵", "바닐라 익스트랙"],
         instructions: [
@@ -659,7 +659,7 @@ const mexicanRecipes = [
         mood: ["comfort", "healthy"],
         time: "1시간",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/lime,soup/all",
+        image: "https://loremflickr.com/800/600/소파,데,리마/all",
         description: "닭고기 육수를 베이스로 라임의 향긋함이 특징인 유카탄 지방의 수프입니다.",
         ingredients: ["닭고기 육수 1L", "닭가슴살 찢은 것", "라임 2개", "양파", "피망", "토마토", "튀긴 또띠아"],
         instructions: [

@@ -7,7 +7,7 @@ const italianRecipes = [
         mood: ["comfort", "energetic"],
         time: "1시간 30분",
         calories: "650 kcal",
-        image: "https://loremflickr.com/800/600/bolognese/all",
+        image: "https://loremflickr.com/800/600/스파게티,볼로네제/all",
         description: "다진 고기와 토마토 소스로 만든 풍부한 맛의 클래식한 파스타 요리입니다.",
         ingredients: ["스파게티 200g", "다진 쇠고기 200g", "토마토 홀 1캔", "양파 1개", "당근 1/2개", "셀러리 1대", "레드 와인 1/2컵", "우유 1/2컵", "파마산 치즈"],
         instructions: [
@@ -30,7 +30,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "25분",
         calories: "700 kcal",
-        image: "https://loremflickr.com/800/600/margherita,pizza/all",
+        image: "https://loremflickr.com/800/600/마르게리타,피자/all",
         description: "토마토, 모차렐라, 바질만으로 맛을 낸 이탈리아의 상징적인 피자입니다.",
         ingredients: ["피자 도우 1판", "토마토 소스 1/2컵", "생 모차렐라 치즈 100g", "신선한 바질 잎", "엑스트라 버진 올리브 오일", "소금"],
         instructions: [
@@ -53,7 +53,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "2시간",
         calories: "800 kcal",
-        image: "https://loremflickr.com/800/600/lasagna/all",
+        image: "https://loremflickr.com/800/600/라자냐/all",
         description: "파스타, 라구 소스, 베샤멜 소스, 치즈를 겹겹이 쌓아 오븐에 구워낸 요리입니다.",
         ingredients: ["라자냐 면 6장", "라구 소스 2컵", "베샤멜 소스 2컵", "파마산 치즈", "모차렐라 치즈", "버터"],
         instructions: [
@@ -76,7 +76,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "20분",
         calories: "750 kcal",
-        image: "https://loremflickr.com/800/600/alfredo,pasta/all",
+        image: "https://loremflickr.com/800/600/페투치네,알프레도/all",
         description: "버터와 파르미지아노 레지아노 치즈만으로 만드는 간단하면서도 매우 크리미한 파스타입니다.",
         ingredients: ["페투치네 면 200g", "무염 버터 80g", "파르미지아노 레지아노 치즈 1컵", "면수 1/2컵", "소금", "후추"],
         instructions: [
@@ -99,7 +99,7 @@ const italianRecipes = [
         mood: ["comfort", "adventure"],
         time: "25분",
         calories: "700 kcal",
-        image: "https://loremflickr.com/800/600/carbonara/all",
+        image: "https://loremflickr.com/800/600/스파게티,카르보나라/all",
         description: "달걀 노른자, 페코리노 로마노 치즈, 관찰레, 흑후추로 만드는 로마식 파스타입니다. (크림X)",
         ingredients: ["스파게티 200g", "관찰레(또는 판체타/베이컨) 100g", "달걀 노른자 3개", "페코리노 로마노 치즈", "통후추 갈은 것"],
         instructions: [
@@ -122,7 +122,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "40분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/risotto/all",
+        image: "https://loremflickr.com/800/600/리조또/all",
         description: "쌀을 육수에 넣고 저어가며 크리미하게 만든 이탈리아 북부의 쌀 요리입니다.",
         ingredients: ["리조또용 쌀(아르보리오) 1컵", "양파 1/4개", "화이트 와인 1/2컵", "닭 육수 1L", "버터 2큰술", "파마산 치즈", "샤프란(선택)"],
         instructions: [
@@ -145,7 +145,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "50분",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/gnocchi/all",
+        image: "https://loremflickr.com/800/600/뇨끼/all",
         description: "감자나 리코타 치즈로 만든 부드러운 이탈리아식 수제비입니다.",
         ingredients: ["감자 2개", "중력분 1컵", "달걀 노른자 1개", "소금", "파마산 치즈", "세이지(허브)", "버터"],
         instructions: [
@@ -168,7 +168,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "30분 (냉장 시간 제외)",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/tiramisu/all",
+        image: "https://loremflickr.com/800/600/티라미수/all",
         description: "커피에 적신 사보이아르디 비스킷과 마스카르포네 치즈 크림을 겹겹이 쌓아 만든 대표적인 이탈리아 디저트입니다.",
         ingredients: ["사보이아르디(레이디핑거) 1봉", "에스프레소 1컵", "마스카르포네 치즈 250g", "달걀 노른자 2개", "설탕 3큰술", "생크림 100ml", "코코아 파우더"],
         instructions: [
@@ -191,7 +191,7 @@ const italianRecipes = [
         mood: ["healthy", "energetic"],
         time: "15분",
         calories: "250 kcal",
-        image: "https://loremflickr.com/800/600/bruschetta/all",
+        image: "https://loremflickr.com/800/600/브루스케타/all",
         description: "구운 빵에 마늘을 문지르고 신선한 토마토와 바질, 올리브 오일을 얹어 먹는 전채 요리입니다.",
         ingredients: ["바게트 1/2개", "완숙 토마토 2개", "생바질 잎 5장", "마늘 1톨", "엑스트라 버진 올리브 오일", "소금", "후추"],
         instructions: [
@@ -214,7 +214,7 @@ const italianRecipes = [
         mood: ["healthy", "comfort"],
         time: "1시간",
         calories: "300 kcal",
-        image: "https://loremflickr.com/800/600/minestrone/all",
+        image: "https://loremflickr.com/800/600/미네스트로네,수프/all",
         description: "다양한 제철 채소와 파스타, 콩 등을 넣어 끓인 푸짐하고 건강한 이탈리아식 수프입니다.",
         ingredients: ["양파, 당근, 셀러리 (채소 기본)", "감자 1개", "호박 1/4개", "토마토 홀 1캔", "강낭콩 1/2컵", "쇼트 파스타 1/2컵", "채소 육수 1L", "바질 페스토"],
         instructions: [
@@ -237,7 +237,7 @@ const italianRecipes = [
         mood: ["healthy", "energetic"],
         time: "20분",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/pesto,pasta/all",
+        image: "https://loremflickr.com/800/600/페스토,파스타/all",
         description: "신선한 바질, 잣, 마늘, 파르미지아노 치즈, 올리브 오일로 만든 향긋한 페스토 소스를 곁들인 파스타입니다.",
         ingredients: ["파스타(푸실리/펜네) 200g", "바질 페스토 4큰술", "감자 1개", "그린빈 한 줌", "파마산 치즈", "엑스트라 버진 올리브 오일"],
         instructions: [
@@ -260,7 +260,7 @@ const italianRecipes = [
         mood: ["healthy"],
         time: "10분",
         calories: "300 kcal",
-        image: "https://loremflickr.com/800/600/caprese/all",
+        image: "https://loremflickr.com/800/600/카프레제,샐러드/all",
         description: "신선한 모차렐라 치즈, 토마토, 바질을 층층이 쌓고 올리브 오일과 소금으로 간을 한 간단한 샐러드입니다.",
         ingredients: ["후레쉬 모차렐라 치즈 1덩이", "완숙 토마토 2개", "신선한 바질 잎", "엑스트라 버진 올리브 오일", "소금", "후추", "발사믹 글레이즈(선택)"],
         instructions: [
@@ -282,7 +282,7 @@ const italianRecipes = [
         mood: ["adventure"],
         time: "1시간",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/arancini/all",
+        image: "https://loremflickr.com/800/600/아란치니/all",
         description: "리조또를 동그랗게 뭉쳐 속에 라구 소스와 치즈 등을 넣고 빵가루를 입혀 튀겨낸 시칠리아식 주먹밥 튀김입니다.",
         ingredients: ["식은 리조또 2공기", "모차렐라 치즈 큐브", "라구 소스(선택)", "밀가루", "달걀", "빵가루", "식용유"],
         instructions: [
@@ -305,7 +305,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "45분",
         calories: "750 kcal",
-        image: "https://loremflickr.com/800/600/chicken,parmigiana/all",
+        image: "https://loremflickr.com/800/600/치킨,파르미지아나/all",
         description: "빵가루를 입혀 튀긴 닭가슴살 위에 토마토 소스와 모차렐라 치즈를 얹어 구워낸 요리입니다.",
         ingredients: ["닭가슴살 2조각", "밀가루, 달걀, 빵가루", "토마토 소스 1컵", "모차렐라 치즈 1컵", "파마산 치즈", "바질"],
         instructions: [
@@ -328,7 +328,7 @@ const italianRecipes = [
         mood: ["comfort", "healthy"],
         time: "1시간 15분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/eggplant,parmigiana/all",
+        image: "https://loremflickr.com/800/600/가지,파르미지아나/all",
         description: "구운 가지, 토마토 소스, 치즈를 겹겹이 쌓어 오븐에 구워낸 채식 요리입니다.",
         ingredients: ["가지 2개", "토마토 소스 2컵", "모차렐라 치즈", "파마산 치즈", "바질", "밀가루", "식용유"],
         instructions: [
@@ -351,7 +351,7 @@ const italianRecipes = [
         mood: ["comfort", "adventure"],
         time: "15분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/cacio,e,pepe/all",
+        image: "https://loremflickr.com/800/600/카초,에,페페/all",
         description: "페코리노 로마노 치즈와 흑후추만으로 만드는, 간단하지만 깊은 맛을 내는 로마의 파스타입니다.",
         ingredients: ["스파게티 200g", "페코리노 로마노 치즈(곱게 간 것) 1컵", "통후추 1큰술", "소금"],
         instructions: [
@@ -374,7 +374,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "3시간",
         calories: "850 kcal",
-        image: "https://loremflickr.com/800/600/ossobuco/all",
+        image: "https://loremflickr.com/800/600/오소부코/all",
         description: "송아지 정강이 뼈를 화이트 와인과 채소와 함께 푹 끓여 만든 밀라노 지방의 요리입니다.",
         ingredients: ["송아지 정강이(찜용) 4조각", "양파, 당근, 셀러리", "화이트 와인 1컵", "토마토 홀", "치킨 스톡", "밀가루", "그레몰라타(레몬제스트+파슬리+마늘)"],
         instructions: [
@@ -397,7 +397,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/tortellini/all",
+        image: "https://loremflickr.com/800/600/토르티야,토르텔리니/all",
         description: "고기나 치즈로 속을 채운 반지 모양의 파스타로, 주로 맑은 육수에 넣어 먹습니다.",
         ingredients: ["토르텔리니(시판) 1봉", "닭 육수 1L", "파마산 치즈", "넛맥 약간", "파슬리"],
         instructions: [
@@ -419,7 +419,7 @@ const italianRecipes = [
         mood: ["adventure"],
         time: "1시간",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/cannoli/all",
+        image: "https://loremflickr.com/800/600/칸놀리/all",
         description: "바삭하게 튀긴 튜브 모양의 페이스트리 안에 달콤한 리코타 치즈 필링을 채워 넣은 시칠리아의 대표 디저트입니다.",
         ingredients: ["칸놀리 쉘(시판)", "리코타 치즈 300g", "슈가파우더 1/2컵", "초콜릿 칩", "피스타치오 분태", "오렌지 제스트"],
         instructions: [
@@ -442,7 +442,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "30분 (얼리는 시간 제외)",
         calories: "250 kcal",
-        image: "https://loremflickr.com/800/600/gelato/all",
+        image: "https://loremflickr.com/800/600/젤라또/all",
         description: "일반 아이스크림보다 공기 함량이 적고 밀도가 높아 진한 맛을 내는 이탈리아식 아이스크림입니다.",
         ingredients: ["우유 500ml", "생크림 100ml", "설탕 100g", "달걀 노른자 4개", "바닐라빈 1개"],
         instructions: [
@@ -465,7 +465,7 @@ const italianRecipes = [
         mood: ["adventure"],
         time: "20분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/saltimbocca/all",
+        image: "https://loremflickr.com/800/600/살팀보카/all",
         description: "얇게 편 송아지 고기에 프로슈토와 세이지 잎을 올려 화이트 와인에 구워낸 로마식 요리입니다.",
         ingredients: ["송아지 고기(또는 돼지 등심) 슬라이스 4장", "프로슈토 4장", "생 세이지 잎 4장", "버터", "화이트 와인 1/2컵", "밀가루"],
         instructions: [
@@ -488,7 +488,7 @@ const italianRecipes = [
         mood: ["healthy", "comfort"],
         time: "1시간 30분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/ribollita/all",
+        image: "https://loremflickr.com/800/600/리볼리타/all",
         description: "오래된 빵과 채소를 넣어 다시 끓여 만든 토스카나 지방의 푸짐한 수프입니다.",
         ingredients: ["오래된 빵(사워도우 등)", "케일(또는 근대)", "흰 강낭콩(캔) 1컵", "양파, 당근, 셀러리", "토마토 캔 1개", "채소 육수"],
         instructions: [
@@ -510,7 +510,7 @@ const italianRecipes = [
         mood: ["comfort", "healthy"],
         time: "45분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/pasta,e,fagioli/all",
+        image: "https://loremflickr.com/800/600/파스타,에,파지올리/all",
         description: "파스타와 콩을 함께 끓여 만든 이탈리아의 전통적인 수프입니다.",
         ingredients: ["딜리탈리(작은 파스타) 1컵", "흰 강낭콩 1캔", "판체타(선택)", "양파, 당근, 셀러리", "토마토 페이스트", "로즈마리", "육수"],
         instructions: [
@@ -532,7 +532,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "2시간 (발효 시간 포함)",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/focaccia/all",
+        image: "https://loremflickr.com/800/600/포카치아/all",
         description: "올리브 오일과 허브를 뿌려 구워낸 납작한 이탈리아 빵입니다. 겉은 바삭하고 속은 부드럽습니다.",
         ingredients: ["강력분 500g", "따뜻한 물 350ml", "이스트 7g", "소금 10g", "올리브 오일", "로즈마리", "굵은 소금"],
         instructions: [
@@ -554,7 +554,7 @@ const italianRecipes = [
         mood: ["comfort"],
         time: "20분 (굳히는 시간 제외)",
         calories: "300 kcal",
-        image: "https://loremflickr.com/800/600/panna,cotta/all",
+        image: "https://loremflickr.com/800/600/판나코타/all",
         description: "생크림을 설탕과 함께 끓이다가 젤라틴으로 굳혀 만든 부드러운 이탈리아식 푸딩입니다.",
         ingredients: ["생크림 250ml", "우유 250ml", "설탕 70g", "판젤라틴 2장(4g)", "바닐라 익스트랙", "베리 소스/과일"],
         instructions: [
@@ -577,7 +577,7 @@ const italianRecipes = [
         mood: ["adventure", "healthy"],
         time: "25분",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/vongole/all",
+        image: "https://loremflickr.com/800/600/봉골레,파스타/all",
         description: "신선한 조개를 화이트 와인과 함께 볶아 시원한 감칠맛을 낸 오일 파스타입니다.",
         ingredients: ["스파게티 200g", "모시조개/바지락 400g", "마늘 5쪽", "페페론치노 2개", "화이트 와인 1/2컵", "파슬리", "올리브 오일"],
         instructions: [
@@ -599,7 +599,7 @@ const italianRecipes = [
         mood: ["healthy", "energetic"],
         time: "10분",
         calories: "200 kcal",
-        image: "https://loremflickr.com/800/600/prosciutto,melon/all",
+        image: "https://loremflickr.com/800/600/프로슈토,에,멜로네/all",
         description: "달콤한 멜론에 짭짤한 프로슈토 햄을 감싸 먹는 간단하면서도 세련된 전채 요리입니다.",
         ingredients: ["머스크 멜론 1/2통", "프로슈토 슬라이스 6장", "후추", "올리브 오일(선택)"],
         instructions: [
@@ -621,7 +621,7 @@ const italianRecipes = [
         mood: ["energetic"],
         time: "15분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/aglio,olio/all",
+        image: "https://loremflickr.com/800/600/알리오,올리오/all",
         description: "마늘과 올리브 오일, 페페론치노만으로 맛을 낸 가장 기본적이고 담백한 오일 파스타입니다.",
         ingredients: ["스파게티 200g", "마늘 8쪽", "페페론치노 3개", "엑스트라 버진 올리브 오일 1/2컵", "파슬리", "면수"],
         instructions: [
@@ -644,7 +644,7 @@ const italianRecipes = [
         mood: ["comfort", "healthy"],
         time: "45분",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/polenta/all",
+        image: "https://loremflickr.com/800/600/폴렌타/all",
         description: "옥수수 가루를 물이나 육수에 넣고 죽처럼 끓여 만든 이탈리아 북부의 전통 요리입니다.",
         ingredients: ["폴렌타 가루(옥수수 가루) 1컵", "물 4컵", "소금 1작은술", "버터 1큰술", "파마산 치즈 1/2컵"],
         instructions: [
@@ -666,7 +666,7 @@ const italianRecipes = [
         mood: ["energetic"],
         time: "1시간",
         calories: "150 kcal (1개)",
-        image: "https://loremflickr.com/800/600/biscotti/all",
+        image: "https://loremflickr.com/800/600/비스코티/all",
         description: "두 번 구워 매우 단단하고 바삭한 이탈리아식 비스킷입니다. 주로 커피에 찍어 먹습니다.",
         ingredients: ["박력분 200g", "설탕 100g", "달걀 2개", "베이킹 파우더 1작은술", "통아몬드 1/2컵", "바닐라 익스트랙"],
         instructions: [

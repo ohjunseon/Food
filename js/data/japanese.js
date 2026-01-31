@@ -7,7 +7,7 @@ const japaneseRecipes = [
         mood: ["adventure", "healthy"],
         time: "1시간",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/sushi/all",
+        image: "https://loremflickr.com/800/600/스시/all",
         description: "신선한 해산물과 초밥이 어우러진 일본의 대표적인 요리입니다.",
         ingredients: ["고슬고슬한 밥 2공기", "초밥용 식초(배합초)", "참치 횟감", "연어 횟감", "새우", "김", "와사비", "간장"],
         instructions: [
@@ -30,7 +30,7 @@ const japaneseRecipes = [
         mood: ["comfort", "energetic"],
         time: "45분",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/ramen/all",
+        image: "https://loremflickr.com/800/600/라멘/all",
         description: "진한 육수와 쫄깃한 면발, 다양한 토핑이 어우러진 일본식 국수 요리입니다.",
         ingredients: ["생라멘 면 1인분", "돼지사골 육수 500ml", "차슈 2조각", "반숙 달걀 1/2개", "숙주 한 줌", "대파", "김 1장", "라멘 스프/소스"],
         instructions: [
@@ -53,7 +53,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/tonkatsu/all",
+        image: "https://loremflickr.com/800/600/돈카츠/all",
         description: "두툼한 돼지고기를 바삭하게 튀겨낸 일본식 커틀릿입니다.",
         ingredients: ["돼지 등심 2장", "밀가루", "달걀 2개", "빵가루", "소금", "후추", "식용유", "양배추", "돈카츠 소스"],
         instructions: [
@@ -76,7 +76,7 @@ const japaneseRecipes = [
         mood: ["adventure"],
         time: "25분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/tempura/all",
+        image: "https://loremflickr.com/800/600/덴푸라/all",
         description: "신선한 채소와 해산물을 얇은 튀김옷을 입혀 바삭하게 튀겨낸 요리입니다.",
         ingredients: ["새우 5마리", "단호박 1/4개", "고구마 1개", "꽈리고추 5개", "튀김가루 1컵", "얼음물 1컵"],
         instructions: [
@@ -99,7 +99,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "20분",
         calories: "300 kcal",
-        image: "https://loremflickr.com/800/600/yakitori/all",
+        image: "https://loremflickr.com/800/600/야키토리/all",
         description: "닭고기와 채소를 꼬치에 꿰어 달콤한 간장 소스를 발라 구워낸 요리입니다.",
         ingredients: ["닭다리살 300g", "대파 2대", "꼬치", "간장 4큰술", "미림 4큰술", "설탕 2큰술", "청주 2큰술"],
         instructions: [
@@ -122,7 +122,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "20분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/udon/all",
+        image: "https://loremflickr.com/800/600/우동/all",
         description: "따뜻하고 시원한 국물에 쫄깃한 면발이 특징인 일본식 국수 요리입니다.",
         ingredients: ["우동면 1개", "가쓰오부시 육수 500ml", "유부 2장", "판어묵 1장", "대파", "쑥갓", "튀김가루(텐카스)"],
         instructions: [
@@ -145,7 +145,7 @@ const japaneseRecipes = [
         mood: ["healthy"],
         time: "15분",
         calories: "350 kcal",
-        image: "https://loremflickr.com/800/600/soba/all",
+        image: "https://loremflickr.com/800/600/소바/all",
         description: "메밀로 만든 면을 차가운 간장 소스에 찍어 먹는 깔끔한 여름 별미입니다.",
         ingredients: ["메밀국수 1인분", "쯔유 1/2컵", "물 1/2컵", "무 1토막", "실파", "와사비", "김가루"],
         instructions: [
@@ -168,7 +168,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "20분",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/gyudon/all",
+        image: "https://loremflickr.com/800/600/규동/all",
         description: "얇게 썬 소고기와 양파를 달콤짭짤한 소스에 끓여 밥 위에 얹어 먹는 덮밥입니다.",
         ingredients: ["밥 1공기", "소고기 불고기용 150g", "양파 1/2개", "달걀 1개", "간장 2큰술", "설탕 1큰술", "맛술 1큰술", "다시마 육수 1/2컵", "생강절임(베니쇼가)"],
         instructions: [
@@ -191,7 +191,7 @@ const japaneseRecipes = [
         mood: ["adventure"],
         time: "35분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/okonomiyaki/all",
+        image: "https://loremflickr.com/800/600/오코노미야키/all",
         description: "양배추와 다양한 재료를 넣은 반죽을 부쳐내 소스와 마요네즈를 뿌려 먹는 일본식 부침개입니다.",
         ingredients: ["양배추 1/4통", "부침가루 1컵", "달걀 1개", "물", "베이컨 3줄", "새우", "오코노미야키 소스", "마요네즈", "가쓰오부시", "파래가루"],
         instructions: [
@@ -214,7 +214,7 @@ const japaneseRecipes = [
         mood: ["adventure"],
         time: "30분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/takoyaki/all",
+        image: "https://loremflickr.com/800/600/타코야키/all",
         description: "동그란 틀에 밀가루 반죽과 문어를 넣어 구워낸 일본의 대표적인 길거리 음식입니다.",
         ingredients: ["타코야키 가루(또는 부침가루)", "물", "달걀", "자숙 문어", "쪽파", "텐카스", "타코야키 소스", "마요네즈", "가쓰오부시"],
         instructions: [
@@ -237,7 +237,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "25분",
         calories: "480 kcal",
-        image: "https://loremflickr.com/800/600/karaage/all",
+        image: "https://loremflickr.com/800/600/가라아게/all",
         description: "간장과 생강, 마늘 양념에 재운 닭고기를 바삭하게 튀겨낸 일본식 닭튀김입니다.",
         ingredients: ["닭다리살 500g", "간장 2큰술", "청주 2큰술", "다진 생강 1작은술", "다진 마늘 1작은술", "달걀 1개", "전분가루", "밀가루"],
         instructions: [
@@ -260,7 +260,7 @@ const japaneseRecipes = [
         mood: ["healthy", "comfort"],
         time: "10분",
         calories: "80 kcal",
-        image: "https://loremflickr.com/800/600/miso,soup/all",
+        image: "https://loremflickr.com/800/600/미소시루/all",
         description: "다시마와 가쓰오부시로 우려낸 육수에 미소 된장을 풀어 만든 일본의 기본 국물 요리입니다.",
         ingredients: ["미소 된장 2큰술", "두부 1/4모", "건미역 약간", "쪽파", "다시마 육수 500ml"],
         instructions: [
@@ -282,7 +282,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "15분",
         calories: "200 kcal",
-        image: "https://loremflickr.com/800/600/onigiri/all",
+        image: "https://loremflickr.com/800/600/오니기리/all",
         description: "밥에 다양한 속재료를 넣고 삼각형이나 원형으로 뭉쳐 김으로 감싼 일본식 주먹밥입니다.",
         ingredients: ["밥 2공기", "김밥김", "참치캔 1개", "마요네즈", "소금", "참기름", "후리가케(선택)"],
         instructions: [
@@ -305,7 +305,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "20분",
         calories: "550 kcal",
-        image: "https://loremflickr.com/800/600/yakisoba/all",
+        image: "https://loremflickr.com/800/600/야키소바/all",
         description: "돼지고기와 채소를 면과 함께 볶아 달콤한 소스로 맛을 낸 일본식 볶음 국수입니다.",
         ingredients: ["야키소바 면(또는 중화면)", "대패 삼겹살 100g", "양배추 1/8통", "당근", "숙주", "야키소바 소스", "가쓰오부시", "아오노리(파래가루)"],
         instructions: [
@@ -327,7 +327,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "40분",
         calories: "650 kcal",
-        image: "https://loremflickr.com/800/600/japanese,curry/all",
+        image: "https://loremflickr.com/800/600/카레라이스/all",
         description: "감자, 당근, 양파 등의 채소와 고기를 볶아 카레 루와 함께 끓여 밥과 함께 먹는 요리입니다.",
         ingredients: ["고형 카레 4조각", "돼지고기(안심/등심) 200g", "양파 2개", "감자 2개", "당근 1개", "물 600ml", "버터 1큰술"],
         instructions: [
@@ -350,7 +350,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "35분",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/hayashi,rice/all",
+        image: "https://loremflickr.com/800/600/하이라이스/all",
         description: "소고기와 양파를 데미글라스 소스로 끓여 밥 위에 얹어 먹는 서양식에서 유래한 일본 요리입니다.",
         ingredients: ["하이라이스 루", "소고기 얇게 썬 것 200g", "양파 2개", "양송이 버섯 5개", "버터", "케첩 1큰술"],
         instructions: [
@@ -373,7 +373,7 @@ const japaneseRecipes = [
         mood: ["adventure"],
         time: "30분",
         calories: "700 kcal",
-        image: "https://loremflickr.com/800/600/chicken,nanban/all",
+        image: "https://loremflickr.com/800/600/치킨난반/all",
         description: "튀긴 닭고기를 새콤달콤한 소스에 적셔 타르타르 소스를 곁들여 먹는 미야자키현의 명물 요리입니다.",
         ingredients: ["닭다리살 300g", "달걀", "밀가루", "간장", "설탕", "식초", "타르타르 소스(양파, 삶은달걀, 마요네즈)"],
         instructions: [
@@ -395,7 +395,7 @@ const japaneseRecipes = [
         mood: ["healthy", "comfort"],
         time: "30분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/mackerel,miso/all",
+        image: "https://loremflickr.com/800/600/고등어,미소,조림/all",
         description: "신선한 고등어를 미소 된장과 생강을 넣은 양념에 조려낸 일본의 가정식 요리입니다.",
         ingredients: ["고등어 1마리", "생강 1톨", "미소 된장 3큰술", "청주 1/2컵", "설탕 2큰술", "물 1컵", "대파"],
         instructions: [
@@ -418,7 +418,7 @@ const japaneseRecipes = [
         mood: ["comfort", "energetic"],
         time: "40분",
         calories: "700 kcal",
-        image: "https://loremflickr.com/800/600/sukiyaki/all",
+        image: "https://loremflickr.com/800/600/스키야키/all",
         description: "얇게 썬 소고기와 채소, 두부 등을 달콤한 간장 소스로 끓여 날달걀에 찍어 먹는 전골 요리입니다.",
         ingredients: ["소고기 얇은 등심 300g", "배추", "대파", "표고버섯", "두부", "실곤약", "스키야키 소스(간장, 설탕, 미림)", "신선한 달걀"],
         instructions: [
@@ -441,7 +441,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "1시간",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/oden/all",
+        image: "https://loremflickr.com/800/600/오뎅/all",
         description: "다양한 어묵과 무, 곤약, 달걀 등을 가쓰오부시 육수에 푹 끓여낸 겨울철 대표 요리입니다.",
         ingredients: ["모듬 어묵", "무 1/3개", "곤약 1/2개", "삶은 달걀 2개", "소힘줄(스지)", "다시마 육수", "간장"],
         instructions: [
@@ -463,7 +463,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "2시간",
         calories: "800 kcal",
-        image: "https://loremflickr.com/800/600/chashu/all",
+        image: "https://loremflickr.com/800/600/챠슈/all",
         description: "돼지고기 덩어리를 간장 양념에 푹 삶아 부드럽게 만든 요리로, 라멘 토핑이나 덮밥으로 즐깁니다.",
         ingredients: ["통삼겹살 600g", "대파 푸른 부분", "마늘", "생강", "간장 1컵", "물 2컵", "설탕 1/2컵", "청주 1/2컵"],
         instructions: [
@@ -485,7 +485,7 @@ const japaneseRecipes = [
         mood: ["healthy", "energetic"],
         time: "25분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/hiyashi,chuka/all",
+        image: "https://loremflickr.com/800/600/히야시츄카/all",
         description: "차가운 중화면에 채 썬 오이, 햄, 달걀 지단 등을 올리고 새콤한 간장 소스를 뿌려 먹는 여름 국수입니다.",
         ingredients: ["중화면 1인분", "오이 1/3개", "햄 2장", "달걀 1개", "맛살 1개", "토마토", "소스(간장, 식초, 설탕, 참기름, 물)"],
         instructions: [
@@ -508,7 +508,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "5분",
         calories: "250 kcal",
-        image: "https://loremflickr.com/800/600/ochazuke/all",
+        image: "https://loremflickr.com/800/600/오차즈케/all",
         description: "따뜻한 밥 위에 연어, 우메보시 등의 고명을 올리고 따뜻한 녹차나 육수를 부어 먹는 간편한 식사입니다.",
         ingredients: ["밥 1공기", "녹차물 또는 다시마 육수", "구운 연어", "김가루", "와사비", "후리가케"],
         instructions: [
@@ -530,7 +530,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "25분",
         calories: "750 kcal",
-        image: "https://loremflickr.com/800/600/katsudon/all",
+        image: "https://loremflickr.com/800/600/가츠동/all",
         description: "밥 위에 돈카츠와 양파를 끓인 달걀을 덮어 먹는 일본식 덮밥입니다.",
         ingredients: ["돈카츠 1장(시판 또는 남은 것)", "양파 1/2개", "달걀 2개", "밥 1공기", "쯔유(또는 간장 소스)", "대파"],
         instructions: [
@@ -553,7 +553,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "30분",
         calories: "450 kcal",
-        image: "https://loremflickr.com/800/600/fried,shrimp/all",
+        image: "https://loremflickr.com/800/600/에비후라이/all",
         description: "큼직한 새우에 빵가루를 입혀 바삭하게 튀겨낸 요리로, 타르타르 소스나 돈카츠 소스와 함께 즐깁니다.",
         ingredients: ["대하 5마리", "밀가루", "달걀", "빵가루", "소금", "후추", "타르타르 소스"],
         instructions: [
@@ -575,7 +575,7 @@ const japaneseRecipes = [
         mood: ["healthy"],
         time: "15분",
         calories: "380 kcal",
-        image: "https://loremflickr.com/800/600/tororo,soba/all",
+        image: "https://loremflickr.com/800/600/도로로,소바/all",
         description: "차가운 소바 위에 곱게 간 마를 얹고 쯔유를 부어 먹는 건강한 여름 별미입니다.",
         ingredients: ["소바 면 1인분", "마(산마) 100g", "달걀 노른자 1개", "쯔유", "김가루", "와사비"],
         instructions: [
@@ -597,7 +597,7 @@ const japaneseRecipes = [
         mood: ["energetic"],
         time: "20분",
         calories: "650 kcal",
-        image: "https://loremflickr.com/800/600/butadon/all",
+        image: "https://loremflickr.com/800/600/부타동/all",
         description: "두툼한 돼지고기를 달콤짭짤한 간장 소스에 구워 밥 위에 얹어 먹는 홋카이도식 덮밥입니다.",
         ingredients: ["돼지고기 목살 200g", "밥 1공기", "간장 2큰술", "설탕 1.5큰술", "미림 1큰술", "다진 마늘 1작은술", "대파", "완두콩(선택)"],
         instructions: [
@@ -620,7 +620,7 @@ const japaneseRecipes = [
         mood: ["comfort", "healthy"],
         time: "45분",
         calories: "500 kcal",
-        image: "https://loremflickr.com/800/600/nabe/all",
+        image: "https://loremflickr.com/800/600/나베모노/all",
         description: "다양한 종류의 재료를 한 냄비에 담아 끓여 먹는 일본의 전골 요리를 총칭합니다.",
         ingredients: ["배추", "대파", "표고버섯", "팽이버섯", "두부", "소고기 샤브샤브용", "다시마 육수", "폰즈 소스"],
         instructions: [
@@ -642,7 +642,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "15분",
         calories: "400 kcal",
-        image: "https://loremflickr.com/800/600/egg,sandwich/all",
+        image: "https://loremflickr.com/800/600/타마고산도/all",
         description: "부드러운 식빵 사이에 두툼하고 부드러운 달걀 샐러드를 넣어 만든 일본식 달걀 샌드위치입니다.",
         ingredients: ["식빵 2장", "달걀 3개", "마요네즈 3큰술", "설탕 1작은술", "소금", "후추", "버터"],
         instructions: [
@@ -664,7 +664,7 @@ const japaneseRecipes = [
         mood: ["comfort"],
         time: "35분",
         calories: "600 kcal",
-        image: "https://loremflickr.com/800/600/menchi-katsu/all",
+        image: "https://loremflickr.com/800/600/멘치카츠/all",
         description: "다진 고기와 양파를 섞어 빵가루를 입혀 튀겨낸 일본식 커틀릿입니다. 육즙이 풍부합니다.",
         ingredients: ["다진 소고기/돼지고기 300g", "양파 1/2개", "빵가루", "달걀", "우유 2큰술", "소금", "후추", "넛맥(선택)"],
         instructions: [
